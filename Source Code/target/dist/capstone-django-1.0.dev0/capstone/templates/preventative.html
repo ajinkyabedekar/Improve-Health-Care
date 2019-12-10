@@ -1,0 +1,80 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="{% static 'capstone/start.css' %}">
+        <title>Preventative Model</title>
+    </head>
+    <body data-spy="scroll" data-target=".navbar">
+        <div data-spy="scroll"  id="scrollbar">
+            <div class="cover" id="home">
+                <div class="cover-text">
+                    <h1> Welcome to Preventative Care </h1>
+                    <p class="lead">Here we analyse the data of hundreds of patients and with the help of machine learning algorithms provide accurate conclusions which can be used for Future benefits.</p>
+                    <br>
+                    <br>
+                    <div class="col-xs-4">
+                        <form method="post" enctype="multipart/form-data" class="form-group">
+                            {% csrf_token %}
+                            <label class="control-label">Upload the Data</label>
+                            <br>
+                            <br>
+                            <input name="myfile" type="file" class="filestyle" data-buttonText="Select a File">
+                            <br>
+                            <br>
+                            <button type="submit" role="button" class="btn btn-success btn-lg ">Perform Test</a>
+                        </form>
+                    </div>
+                    {{ error }}
+                    {% if uploaded_file_url %}
+                        <img src="{% static '' %}{{ uploaded_file_url|slice:'1:'|add:'_1.png' }}">
+                        <br>
+                        <br>
+                        <br>
+                        <img src="{% static '' %}{{ uploaded_file_url|slice:'1:'|add:'_2.png' }}">
+                        <br>
+                        <br>
+                        <br>
+                        <img src="{% static '' %}{{ uploaded_file_url|slice:'1:'|add:'_3.png' }}">
+                        <br>
+                        <br>
+                        <br>
+                        <img src="{% static '' %}{{ uploaded_file_url|slice:'1:'|add:'_4.png' }}">
+                        <br>
+                        <br>
+                        <br>
+                        <img src="{% static '' %}{{ uploaded_file_url|slice:'1:'|add:'_5.png' }}">
+                        <br>
+                        <br>
+                        <br>
+                        <div id="conclusion">
+                        <h1>
+                            Conclusion
+                        </h1>
+                        <ul>
+                            {% if max_zone and maximum_doc %}
+                                <li>The highest count of doctors lie in the {{ max_zone }} with a total of {{ maximum_doc }} doctors</li>
+                            {% endif %}
+                            {% if min_area and minimum_pop %}
+                                <li>The area of {{ min_area }} has the lowest population per doctor count of {{ minimum_pop }}</li>
+                            {% endif %}
+                            {% if areas_list %}
+                                <li>More Doctors should be appointed in the areas where the population per doctor count exceeds 5000, i.e., {{ areas_list }}, in order to properly treat the patients and prevent the outbreak of dangerous diseases</li>
+                            {% endif %}
+                        </ul>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        <footer>
+            Crafted with &hearts; in Neemrana by <a href="#">Our Team</a>
+        </footer>
+    </body>
+</html>

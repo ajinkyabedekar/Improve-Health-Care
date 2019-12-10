@@ -1,0 +1,148 @@
+running clean
+'build\lib' does not exist -- can't clean it
+'build\bdist.win-amd64' does not exist -- can't clean it
+'build\scripts-3.7' does not exist -- can't clean it
+running bdist_wheel
+running build
+running build_py
+creating build
+creating build\lib
+creating build\lib\capstone
+creating build\lib\capstone\capstone
+copying capstone\capstone\settings.py -> build\lib\capstone\capstone
+copying capstone\capstone\urls.py -> build\lib\capstone\capstone
+copying capstone\capstone\views.py -> build\lib\capstone\capstone
+copying capstone\capstone\wsgi.py -> build\lib\capstone\capstone
+copying capstone\capstone\__init__.py -> build\lib\capstone\capstone
+creating build\lib\capstone\diagnostic
+copying capstone\diagnostic\admin.py -> build\lib\capstone\diagnostic
+copying capstone\diagnostic\apps.py -> build\lib\capstone\diagnostic
+copying capstone\diagnostic\models.py -> build\lib\capstone\diagnostic
+copying capstone\diagnostic\tests.py -> build\lib\capstone\diagnostic
+copying capstone\diagnostic\urls.py -> build\lib\capstone\diagnostic
+copying capstone\diagnostic\views.py -> build\lib\capstone\diagnostic
+copying capstone\diagnostic\__init__.py -> build\lib\capstone\diagnostic
+creating build\lib\capstone\insurance
+copying capstone\insurance\admin.py -> build\lib\capstone\insurance
+copying capstone\insurance\apps.py -> build\lib\capstone\insurance
+copying capstone\insurance\forms.py -> build\lib\capstone\insurance
+copying capstone\insurance\models.py -> build\lib\capstone\insurance
+copying capstone\insurance\tests.py -> build\lib\capstone\insurance
+copying capstone\insurance\urls.py -> build\lib\capstone\insurance
+copying capstone\insurance\views.py -> build\lib\capstone\insurance
+copying capstone\insurance\__init__.py -> build\lib\capstone\insurance
+creating build\lib\capstone\preventative
+copying capstone\preventative\admin.py -> build\lib\capstone\preventative
+copying capstone\preventative\apps.py -> build\lib\capstone\preventative
+copying capstone\preventative\forms.py -> build\lib\capstone\preventative
+copying capstone\preventative\models.py -> build\lib\capstone\preventative
+copying capstone\preventative\tests.py -> build\lib\capstone\preventative
+copying capstone\preventative\urls.py -> build\lib\capstone\preventative
+copying capstone\preventative\views.py -> build\lib\capstone\preventative
+copying capstone\preventative\__init__.py -> build\lib\capstone\preventative
+creating build\lib\capstone\diagnostic\migrations
+copying capstone\diagnostic\migrations\__init__.py -> build\lib\capstone\diagnostic\migrations
+creating build\lib\capstone\insurance\migrations
+copying capstone\insurance\migrations\0001_initial.py -> build\lib\capstone\insurance\migrations
+copying capstone\insurance\migrations\__init__.py -> build\lib\capstone\insurance\migrations
+creating build\lib\capstone\preventative\migrations
+copying capstone\preventative\migrations\0001_initial.py -> build\lib\capstone\preventative\migrations
+copying capstone\preventative\migrations\__init__.py -> build\lib\capstone\preventative\migrations
+installing to build\bdist.win-amd64\wheel
+running install
+running install_lib
+creating build\bdist.win-amd64
+creating build\bdist.win-amd64\wheel
+creating build\bdist.win-amd64\wheel\capstone
+creating build\bdist.win-amd64\wheel\capstone\capstone
+copying build\lib\capstone\capstone\settings.py -> build\bdist.win-amd64\wheel\.\capstone\capstone
+copying build\lib\capstone\capstone\urls.py -> build\bdist.win-amd64\wheel\.\capstone\capstone
+copying build\lib\capstone\capstone\views.py -> build\bdist.win-amd64\wheel\.\capstone\capstone
+copying build\lib\capstone\capstone\wsgi.py -> build\bdist.win-amd64\wheel\.\capstone\capstone
+copying build\lib\capstone\capstone\__init__.py -> build\bdist.win-amd64\wheel\.\capstone\capstone
+creating build\bdist.win-amd64\wheel\capstone\diagnostic
+copying build\lib\capstone\diagnostic\admin.py -> build\bdist.win-amd64\wheel\.\capstone\diagnostic
+copying build\lib\capstone\diagnostic\apps.py -> build\bdist.win-amd64\wheel\.\capstone\diagnostic
+creating build\bdist.win-amd64\wheel\capstone\diagnostic\migrations
+copying build\lib\capstone\diagnostic\migrations\__init__.py -> build\bdist.win-amd64\wheel\.\capstone\diagnostic\migrations
+copying build\lib\capstone\diagnostic\models.py -> build\bdist.win-amd64\wheel\.\capstone\diagnostic
+copying build\lib\capstone\diagnostic\tests.py -> build\bdist.win-amd64\wheel\.\capstone\diagnostic
+copying build\lib\capstone\diagnostic\urls.py -> build\bdist.win-amd64\wheel\.\capstone\diagnostic
+copying build\lib\capstone\diagnostic\views.py -> build\bdist.win-amd64\wheel\.\capstone\diagnostic
+copying build\lib\capstone\diagnostic\__init__.py -> build\bdist.win-amd64\wheel\.\capstone\diagnostic
+creating build\bdist.win-amd64\wheel\capstone\insurance
+copying build\lib\capstone\insurance\admin.py -> build\bdist.win-amd64\wheel\.\capstone\insurance
+copying build\lib\capstone\insurance\apps.py -> build\bdist.win-amd64\wheel\.\capstone\insurance
+copying build\lib\capstone\insurance\forms.py -> build\bdist.win-amd64\wheel\.\capstone\insurance
+creating build\bdist.win-amd64\wheel\capstone\insurance\migrations
+copying build\lib\capstone\insurance\migrations\0001_initial.py -> build\bdist.win-amd64\wheel\.\capstone\insurance\migrations
+copying build\lib\capstone\insurance\migrations\__init__.py -> build\bdist.win-amd64\wheel\.\capstone\insurance\migrations
+copying build\lib\capstone\insurance\models.py -> build\bdist.win-amd64\wheel\.\capstone\insurance
+copying build\lib\capstone\insurance\tests.py -> build\bdist.win-amd64\wheel\.\capstone\insurance
+copying build\lib\capstone\insurance\urls.py -> build\bdist.win-amd64\wheel\.\capstone\insurance
+copying build\lib\capstone\insurance\views.py -> build\bdist.win-amd64\wheel\.\capstone\insurance
+copying build\lib\capstone\insurance\__init__.py -> build\bdist.win-amd64\wheel\.\capstone\insurance
+creating build\bdist.win-amd64\wheel\capstone\preventative
+copying build\lib\capstone\preventative\admin.py -> build\bdist.win-amd64\wheel\.\capstone\preventative
+copying build\lib\capstone\preventative\apps.py -> build\bdist.win-amd64\wheel\.\capstone\preventative
+copying build\lib\capstone\preventative\forms.py -> build\bdist.win-amd64\wheel\.\capstone\preventative
+creating build\bdist.win-amd64\wheel\capstone\preventative\migrations
+copying build\lib\capstone\preventative\migrations\0001_initial.py -> build\bdist.win-amd64\wheel\.\capstone\preventative\migrations
+copying build\lib\capstone\preventative\migrations\__init__.py -> build\bdist.win-amd64\wheel\.\capstone\preventative\migrations
+copying build\lib\capstone\preventative\models.py -> build\bdist.win-amd64\wheel\.\capstone\preventative
+copying build\lib\capstone\preventative\tests.py -> build\bdist.win-amd64\wheel\.\capstone\preventative
+copying build\lib\capstone\preventative\urls.py -> build\bdist.win-amd64\wheel\.\capstone\preventative
+copying build\lib\capstone\preventative\views.py -> build\bdist.win-amd64\wheel\.\capstone\preventative
+copying build\lib\capstone\preventative\__init__.py -> build\bdist.win-amd64\wheel\.\capstone\preventative
+running install_egg_info
+running egg_info
+writing Capstone_Django.egg-info\PKG-INFO
+writing dependency_links to Capstone_Django.egg-info\dependency_links.txt
+writing namespace_packages to Capstone_Django.egg-info\namespace_packages.txt
+writing top-level names to Capstone_Django.egg-info\top_level.txt
+reading manifest file 'Capstone_Django.egg-info\SOURCES.txt'
+writing manifest file 'Capstone_Django.egg-info\SOURCES.txt'
+Copying Capstone_Django.egg-info to build\bdist.win-amd64\wheel\.\Capstone_Django-1.0.dev0-py3.7.egg-info
+running install_scripts
+creating build\bdist.win-amd64\wheel\Capstone_Django-1.0.dev0.dist-info\WHEEL
+creating 'dist\Capstone_Django-1.0.dev0-py3-none-any.whl' and adding 'build\bdist.win-amd64\wheel' to it
+adding 'capstone/capstone/__init__.py'
+adding 'capstone/capstone/settings.py'
+adding 'capstone/capstone/urls.py'
+adding 'capstone/capstone/views.py'
+adding 'capstone/capstone/wsgi.py'
+adding 'capstone/diagnostic/__init__.py'
+adding 'capstone/diagnostic/admin.py'
+adding 'capstone/diagnostic/apps.py'
+adding 'capstone/diagnostic/models.py'
+adding 'capstone/diagnostic/tests.py'
+adding 'capstone/diagnostic/urls.py'
+adding 'capstone/diagnostic/views.py'
+adding 'capstone/diagnostic/migrations/__init__.py'
+adding 'capstone/insurance/__init__.py'
+adding 'capstone/insurance/admin.py'
+adding 'capstone/insurance/apps.py'
+adding 'capstone/insurance/forms.py'
+adding 'capstone/insurance/models.py'
+adding 'capstone/insurance/tests.py'
+adding 'capstone/insurance/urls.py'
+adding 'capstone/insurance/views.py'
+adding 'capstone/insurance/migrations/0001_initial.py'
+adding 'capstone/insurance/migrations/__init__.py'
+adding 'capstone/preventative/__init__.py'
+adding 'capstone/preventative/admin.py'
+adding 'capstone/preventative/apps.py'
+adding 'capstone/preventative/forms.py'
+adding 'capstone/preventative/models.py'
+adding 'capstone/preventative/tests.py'
+adding 'capstone/preventative/urls.py'
+adding 'capstone/preventative/views.py'
+adding 'capstone/preventative/migrations/0001_initial.py'
+adding 'capstone/preventative/migrations/__init__.py'
+adding 'Capstone_Django-1.0.dev0.dist-info/METADATA'
+adding 'Capstone_Django-1.0.dev0.dist-info/WHEEL'
+adding 'Capstone_Django-1.0.dev0.dist-info/namespace_packages.txt'
+adding 'Capstone_Django-1.0.dev0.dist-info/top_level.txt'
+adding 'Capstone_Django-1.0.dev0.dist-info/zip-safe'
+adding 'Capstone_Django-1.0.dev0.dist-info/RECORD'
+removing build\bdist.win-amd64\wheel

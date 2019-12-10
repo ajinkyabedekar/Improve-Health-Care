@@ -1,0 +1,33 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="{% static 'capstone/start.css' %}">
+        <title>Improve Health Care</title>
+    </head>
+    <body data-spy="scroll" data-target=".navbar">
+        <div data-spy="scroll"  id="scrollbar">
+            <div class="cover" id="home">
+                <div class="cover-text">
+                    <h1>Hello & Welcome</h1>
+                    <p class="lead">Welcome to the one stop Destination for your <b>Helathcare and Well being</b>. Our cutting edge machine learning tools will help you be fit and save a lot. With the blend of technology and medicine we provide the service which is best for you. So why wait let's begin!</p>
+                    <br>
+                    <br>
+                    <a href="{% url 'preventative:preventative' %}" role="button" class="btn btn-danger btn-lg">Preventative Care</a>
+                    <!-- <a href="{% url 'diagnostic:diagnostic'%}" role="button" class="btn btn-success btn-lg">Diagnostic Care</a> -->
+                    <a href="{% url 'insurance:insurance' %}" role="button" class="btn btn-warning btn-lg">Insurance Care</a>
+                </div>
+            </div>
+        </div>
+        <footer>
+            Crafted with &hearts; in Neemrana by <a href="#">Our Team</a>
+        </footer>
+    </body>
+</html>

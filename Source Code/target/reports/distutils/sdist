@@ -1,0 +1,76 @@
+running clean
+'build\lib' does not exist -- can't clean it
+'build\bdist.win-amd64' does not exist -- can't clean it
+'build\scripts-3.7' does not exist -- can't clean it
+running sdist
+running egg_info
+creating Capstone_Django.egg-info
+writing Capstone_Django.egg-info\PKG-INFO
+writing dependency_links to Capstone_Django.egg-info\dependency_links.txt
+writing namespace_packages to Capstone_Django.egg-info\namespace_packages.txt
+writing top-level names to Capstone_Django.egg-info\top_level.txt
+writing manifest file 'Capstone_Django.egg-info\SOURCES.txt'
+reading manifest file 'Capstone_Django.egg-info\SOURCES.txt'
+writing manifest file 'Capstone_Django.egg-info\SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+warning: Check: missing required meta-data: url
+
+warning: Check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) must be supplied
+
+creating Capstone-Django-1.0.dev0
+creating Capstone-Django-1.0.dev0\Capstone_Django.egg-info
+creating Capstone-Django-1.0.dev0\capstone
+creating Capstone-Django-1.0.dev0\capstone\capstone
+creating Capstone-Django-1.0.dev0\capstone\diagnostic
+creating Capstone-Django-1.0.dev0\capstone\diagnostic\migrations
+creating Capstone-Django-1.0.dev0\capstone\insurance
+creating Capstone-Django-1.0.dev0\capstone\insurance\migrations
+creating Capstone-Django-1.0.dev0\capstone\preventative
+creating Capstone-Django-1.0.dev0\capstone\preventative\migrations
+copying files to Capstone-Django-1.0.dev0...
+copying setup.py -> Capstone-Django-1.0.dev0
+copying Capstone_Django.egg-info\PKG-INFO -> Capstone-Django-1.0.dev0\Capstone_Django.egg-info
+copying Capstone_Django.egg-info\SOURCES.txt -> Capstone-Django-1.0.dev0\Capstone_Django.egg-info
+copying Capstone_Django.egg-info\dependency_links.txt -> Capstone-Django-1.0.dev0\Capstone_Django.egg-info
+copying Capstone_Django.egg-info\namespace_packages.txt -> Capstone-Django-1.0.dev0\Capstone_Django.egg-info
+copying Capstone_Django.egg-info\top_level.txt -> Capstone-Django-1.0.dev0\Capstone_Django.egg-info
+copying Capstone_Django.egg-info\zip-safe -> Capstone-Django-1.0.dev0\Capstone_Django.egg-info
+copying capstone\capstone\__init__.py -> Capstone-Django-1.0.dev0\capstone\capstone
+copying capstone\capstone\settings.py -> Capstone-Django-1.0.dev0\capstone\capstone
+copying capstone\capstone\urls.py -> Capstone-Django-1.0.dev0\capstone\capstone
+copying capstone\capstone\views.py -> Capstone-Django-1.0.dev0\capstone\capstone
+copying capstone\capstone\wsgi.py -> Capstone-Django-1.0.dev0\capstone\capstone
+copying capstone\diagnostic\__init__.py -> Capstone-Django-1.0.dev0\capstone\diagnostic
+copying capstone\diagnostic\admin.py -> Capstone-Django-1.0.dev0\capstone\diagnostic
+copying capstone\diagnostic\apps.py -> Capstone-Django-1.0.dev0\capstone\diagnostic
+copying capstone\diagnostic\models.py -> Capstone-Django-1.0.dev0\capstone\diagnostic
+copying capstone\diagnostic\tests.py -> Capstone-Django-1.0.dev0\capstone\diagnostic
+copying capstone\diagnostic\urls.py -> Capstone-Django-1.0.dev0\capstone\diagnostic
+copying capstone\diagnostic\views.py -> Capstone-Django-1.0.dev0\capstone\diagnostic
+copying capstone\diagnostic\migrations\__init__.py -> Capstone-Django-1.0.dev0\capstone\diagnostic\migrations
+copying capstone\insurance\__init__.py -> Capstone-Django-1.0.dev0\capstone\insurance
+copying capstone\insurance\admin.py -> Capstone-Django-1.0.dev0\capstone\insurance
+copying capstone\insurance\apps.py -> Capstone-Django-1.0.dev0\capstone\insurance
+copying capstone\insurance\forms.py -> Capstone-Django-1.0.dev0\capstone\insurance
+copying capstone\insurance\models.py -> Capstone-Django-1.0.dev0\capstone\insurance
+copying capstone\insurance\tests.py -> Capstone-Django-1.0.dev0\capstone\insurance
+copying capstone\insurance\urls.py -> Capstone-Django-1.0.dev0\capstone\insurance
+copying capstone\insurance\views.py -> Capstone-Django-1.0.dev0\capstone\insurance
+copying capstone\insurance\migrations\0001_initial.py -> Capstone-Django-1.0.dev0\capstone\insurance\migrations
+copying capstone\insurance\migrations\__init__.py -> Capstone-Django-1.0.dev0\capstone\insurance\migrations
+copying capstone\preventative\__init__.py -> Capstone-Django-1.0.dev0\capstone\preventative
+copying capstone\preventative\admin.py -> Capstone-Django-1.0.dev0\capstone\preventative
+copying capstone\preventative\apps.py -> Capstone-Django-1.0.dev0\capstone\preventative
+copying capstone\preventative\forms.py -> Capstone-Django-1.0.dev0\capstone\preventative
+copying capstone\preventative\models.py -> Capstone-Django-1.0.dev0\capstone\preventative
+copying capstone\preventative\tests.py -> Capstone-Django-1.0.dev0\capstone\preventative
+copying capstone\preventative\urls.py -> Capstone-Django-1.0.dev0\capstone\preventative
+copying capstone\preventative\views.py -> Capstone-Django-1.0.dev0\capstone\preventative
+copying capstone\preventative\migrations\0001_initial.py -> Capstone-Django-1.0.dev0\capstone\preventative\migrations
+copying capstone\preventative\migrations\__init__.py -> Capstone-Django-1.0.dev0\capstone\preventative\migrations
+Writing Capstone-Django-1.0.dev0\setup.cfg
+creating dist
+Creating tar archive
+removing 'Capstone-Django-1.0.dev0' (and everything under it)

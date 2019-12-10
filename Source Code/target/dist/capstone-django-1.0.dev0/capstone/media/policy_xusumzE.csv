@@ -1,0 +1,1362 @@
+age,non-moving balance,children,smoker,region,sex,policy
+22,20000,0,1,3,0,Aegon Life Term Plan
+22,35000,1,0,2,1,Aegon Life Term Plan
+22,39000,3,0,2,1,Aviva I-Life Plan
+22,42000,0,0,1,1,Aviva I-Life Plan
+22,45000,0,0,1,1,Aviva I-Life Plan
+23,20000,0,0,2,0,Aegon Life Term Plan
+23,32000,1,0,2,0,Aegon Life Term Plan
+23,43000,3,0,1,0,Aviva I-Life Plan
+23,56000,2,0,0,1,Bajaj Allianzi Secure
+24,25000,0,0,1,0,Aegon Life Term Plan
+24,38000,0,0,0,1,Aviva I-Life Plan
+24,47000,0,1,2,0,Bajaj Allianzi Secure
+24,60000,0,0,3,1,Bajaj Allianzi Secure
+25,20000,0,0,2,0,Aegon Life Term Plan
+25,40000,0,1,2,1,Bajaj Allianzi Secure
+25,52000,1,0,3,1,Bajaj Allianzi Secure
+25,69000,1,0,0,0,Bharti AXA eProtect
+25,78000,0,0,0,1,Bharti AXA eProtect
+26,20000,0,0,3,1,Aegon Life Term Plan
+26,55000,0,1,3,1,Bajaj Allianzi Secure
+26,37000,0,0,0,0,Aviva I-Life Plan
+26,65000,1,0,3,0,Bharti AXA eProtect
+26,85000,0,0,2,1,Bharti AXA eProtect
+19,16884.924,0,1,3,0,Bharti AXA eProtect
+18,1725.5523,1,0,2,1,Bharti AXA eProtect
+28,4449.462,3,0,2,1,Bharti AXA eProtect
+33,21984.47061,0,0,1,1,Bharti AXA eProtect
+32,3866.8552,0,0,1,1,HDFC ERGO Health Insurance
+31,3756.6216,0,0,2,0,HDFC ERGO Health Insurance
+46,8240.5896,1,0,2,0,HDFC ERGO Health Insurance
+37,7281.5056,3,0,1,0,HDFC ERGO Health Insurance
+37,6406.4107,2,0,0,1,HDFC ERGO Health Insurance
+60,28923.13692,0,0,1,0,HDFC ERGO Health Insurance
+25,2721.3208,0,0,0,1,Bharti AXA eProtect
+62,27808.7251,0,1,2,0,New India Health Insurance
+23,1826.843,0,0,3,1,New India Health Insurance
+56,11090.7178,0,0,2,0,Star Health Insurance
+27,39611.7577,0,1,2,1,Star Health Insurance
+19,1837.237,1,0,3,1,Star Health Insurance
+52,10797.3362,1,0,0,0,Star Health Insurance
+23,2395.17155,0,0,0,1,Star Health Insurance
+56,10602.385,0,0,3,1,Star Health Insurance
+30,36837.467,0,1,3,1,Star Health Insurance
+60,13228.84695,0,0,0,0,Religare Health Insurance
+30,4149.736,1,0,3,0,New India Health Insurance
+18,1137.011,0,0,2,1,New India Health Insurance
+34,37701.8768,1,1,0,0,Religare Health Insurance
+37,6203.90175,2,0,1,1,ICICI Lambord Health Insurance
+59,14001.1338,3,0,2,0,ICICI Lambord Health Insurance
+63,14451.83515,0,0,0,0,Apollo Munich Health Insurance
+55,12268.63225,2,0,1,0,Apollo Munich Health Insurance
+23,2775.19215,1,0,1,1,Apollo Munich Health Insurance
+31,38711,2,1,3,1,Apollo Munich Health Insurance
+22,35585.576,0,1,3,1,HDFC ERGO Health Insurance
+18,2198.18985,0,0,0,0,HDFC ERGO Health Insurance
+19,4687.797,5,0,3,0,HDFC ERGO Health Insurance
+63,13770.0979,0,0,1,1,HDFC ERGO Health Insurance
+28,51194.55914,1,1,3,1,HDFC ERGO Health Insurance
+19,1625.43375,0,0,1,1,Religare Health Insurance
+62,15612.19335,3,0,1,0,Religare Health Insurance
+26,2302.3,0,0,3,1,Religare Health Insurance
+35,39774.2763,1,1,0,1,Religare Health Insurance
+60,48173.361,0,1,3,1,Star Health Insurance
+24,3046.062,0,0,0,0,Star Health Insurance
+31,4949.7587,2,0,2,0,Star Health Insurance
+41,6272.4772,1,0,2,1,Star Health Insurance
+37,6313.759,2,0,2,0,Star Health Insurance
+38,6079.6715,1,0,0,1,Star Health Insurance
+55,20630.28351,0,0,3,1,Star Health Insurance
+18,3393.35635,2,0,0,0,New India Health Insurance
+28,3556.9223,0,0,1,0,New India Health Insurance
+60,12629.8967,0,0,2,0,New India Health Insurance
+36,38709.176,1,1,2,1,Apollo Munich Health Insurance
+18,2211.13075,0,0,0,0,Apollo Munich Health Insurance
+21,3579.8287,2,0,1,0,Apollo Munich Health Insurance
+48,23568.272,1,1,3,1,Apollo Munich Health Insurance
+36,37742.5757,0,1,2,1,HDFC ERGO Health Insurance
+40,8059.6791,3,0,1,0,HDFC ERGO Health Insurance
+58,47496.49445,2,1,1,1,HDFC ERGO Health Insurance
+58,13607.36875,2,0,0,0,HDFC ERGO Health Insurance
+18,34303.1672,2,1,2,1,HDFC ERGO Health Insurance
+53,23244.7902,1,1,2,0,New India Health Insurance
+34,5989.52365,2,0,1,0,New India Health Insurance
+43,8606.2174,3,0,0,1,New India Health Insurance
+25,4504.6624,4,0,2,1,New India Health Insurance
+64,30166.61817,1,0,1,1,New India Health Insurance
+28,4133.64165,1,0,1,0,Star Health Insurance
+20,14711.7438,0,1,1,0,Star Health Insurance
+19,1743.214,0,0,3,0,Star Health Insurance
+61,14235.072,2,0,3,0,Star Health Insurance
+40,6389.37785,1,0,1,1,Star Health Insurance
+40,5920.1041,0,0,2,0,Star Health Insurance
+28,17663.1442,3,1,2,1,Star Health Insurance
+27,16577.7795,0,1,2,0,Religare Health Insurance
+31,6799.458,5,0,0,1,Religare Health Insurance
+53,11741.726,3,0,3,0,Religare Health Insurance
+58,11946.6259,1,0,2,1,Religare Health Insurance
+44,7726.854,2,0,3,1,ICICI Lambord Health Insurance
+57,11356.6609,0,0,1,1,ICICI Lambord Health Insurance
+29,3947.4131,1,0,2,0,New India Health Insurance
+21,1532.4697,0,0,2,1,New India Health Insurance
+22,2755.02095,0,0,0,0,New India Health Insurance
+41,6571.02435,0,0,1,0,New India Health Insurance
+31,4441.21315,1,0,0,1,Apollo Munich Health Insurance
+45,7935.29115,0,0,0,0,Apollo Munich Health Insurance
+22,37165.1638,1,1,2,1,Apollo Munich Health Insurance
+48,11033.6617,4,0,1,0,HDFC ERGO Health Insurance
+37,39836.519,2,1,3,0,HDFC ERGO Health Insurance
+45,21098.55405,2,1,1,1,HDFC ERGO Health Insurance
+57,43578.9394,0,1,1,0,HDFC ERGO Health Insurance
+56,11073.176,0,0,3,0,HDFC ERGO Health Insurance
+46,8026.6666,0,0,1,0,Religare Health Insurance
+55,11082.5772,0,0,1,0,Religare Health Insurance
+21,2026.9741,0,0,2,0,Religare Health Insurance
+53,10942.13205,1,0,1,0,Religare Health Insurance
+59,30184.9367,3,1,0,1,Star Health Insurance
+35,5729.0053,2,0,1,1,Star Health Insurance
+64,47291.055,2,1,3,0,Star Health Insurance
+28,3766.8838,1,0,2,0,Star Health Insurance
+54,12105.32,3,0,3,0,Star Health Insurance
+55,10226.2842,0,0,2,1,Star Health Insurance
+56,22412.6485,0,1,0,1,Star Health Insurance
+38,15820.699,0,1,3,1,New India Health Insurance
+41,6186.127,0,0,3,0,New India Health Insurance
+30,3645.0894,0,0,0,1,New India Health Insurance
+18,21344.8467,0,0,0,0,New India Health Insurance
+61,30942.1918,3,1,2,0,Apollo Munich Health Insurance
+34,5003.853,1,0,3,0,Apollo Munich Health Insurance
+20,17560.37975,1,1,1,1,Apollo Munich Health Insurance
+19,2331.519,1,0,3,0,HDFC ERGO Health Insurance
+26,3877.30425,2,0,1,1,HDFC ERGO Health Insurance
+29,2867.1196,0,0,2,1,HDFC ERGO Health Insurance
+63,47055.5321,0,1,2,1,HDFC ERGO Health Insurance
+54,10825.2537,1,0,1,1,HDFC ERGO Health Insurance
+55,11881.358,2,0,3,0,Religare Health Insurance
+37,4646.759,0,0,3,1,Religare Health Insurance
+21,2404.7338,0,0,1,0,Religare Health Insurance
+52,11488.31695,3,0,0,1,Religare Health Insurance
+60,30259.99556,0,0,0,1,ICICI Lambord Health Insurance
+58,11381.3254,0,0,2,1,ICICI Lambord Health Insurance
+29,19107.7796,1,1,2,0,ICICI Lambord Health Insurance
+49,8601.3293,0,0,2,0,Star Health Insurance
+37,6686.4313,2,0,1,0,Star Health Insurance
+44,7740.337,2,0,3,1,Star Health Insurance
+18,1705.6245,0,0,0,1,Star Health Insurance
+20,2257.47525,0,0,1,0,Star Health Insurance
+44,39556.4945,1,1,0,1,Star Health Insurance
+47,10115.00885,3,0,1,0,Star Health Insurance
+26,3385.39915,0,0,0,0,New India Health Insurance
+19,17081.08,0,1,3,0,New India Health Insurance
+52,9634.538,0,0,3,0,New India Health Insurance
+32,32734.1863,2,1,1,0,New India Health Insurance
+38,6082.405,2,0,3,1,New India Health Insurance
+59,12815.44495,0,0,0,0,New India Health Insurance
+61,13616.3586,0,0,0,0,New India Health Insurance
+53,11163.568,2,0,3,0,Apollo Munich Health Insurance
+19,1632.56445,0,0,1,1,Apollo Munich Health Insurance
+20,2457.21115,0,0,0,0,Apollo Munich Health Insurance
+22,2155.6815,0,0,2,0,Apollo Munich Health Insurance
+19,1261.442,0,0,3,1,Apollo Munich Health Insurance
+22,2045.68525,0,0,1,1,HDFC ERGO Health Insurance
+54,27322.73386,3,0,2,0,HDFC ERGO Health Insurance
+22,2166.732,0,0,3,0,HDFC ERGO Health Insurance
+34,27375.90478,2,0,0,1,HDFC ERGO Health Insurance
+26,3490.5491,1,0,0,1,HDFC ERGO Health Insurance
+34,18972.495,2,1,2,1,Religare Health Insurance
+29,18157.876,2,0,1,1,Religare Health Insurance
+30,20745.9891,3,1,1,1,Religare Health Insurance
+29,5138.2567,3,0,2,0,Religare Health Insurance
+46,40720.55105,3,1,1,1,ICICI Lambord Health Insurance
+51,9877.6077,1,0,2,0,ICICI Lambord Health Insurance
+53,10959.6947,1,0,1,0,Star Health Insurance
+19,1842.519,1,0,3,1,Star Health Insurance
+35,5125.2157,1,0,1,1,Star Health Insurance
+48,7789.635,0,0,2,1,Star Health Insurance
+32,6334.34355,3,0,0,0,Star Health Insurance
+42,19964.7463,0,1,0,0,Star Health Insurance
+40,7077.1894,1,0,0,0,Star Health Insurance
+44,6948.7008,0,0,1,1,New India Health Insurance
+48,21223.6758,0,1,2,1,New India Health Insurance
+18,15518.18025,0,1,0,1,New India Health Insurance
+30,36950.2567,0,1,2,1,New India Health Insurance
+50,19749.38338,3,0,2,0,New India Health Insurance
+42,21348.706,0,1,1,0,New India Health Insurance
+18,36149.4835,0,1,2,0,Apollo Munich Health Insurance
+54,10450.552,1,0,3,1,Apollo Munich Health Insurance
+32,5152.134,2,0,3,0,Apollo Munich Health Insurance
+37,5028.1466,0,0,1,1,Apollo Munich Health Insurance
+47,10407.08585,4,0,0,1,Apollo Munich Health Insurance
+20,4830.63,5,0,3,0,Apollo Munich Health Insurance
+32,6128.79745,3,0,1,0,Apollo Munich Health Insurance
+19,2719.27975,1,0,1,0,Apollo Munich Health Insurance
+27,4827.90495,3,0,0,1,Apollo Munich Health Insurance
+63,13405.3903,0,0,2,1,HDFC ERGO Health Insurance
+49,8116.68,0,0,3,1,HDFC ERGO Health Insurance
+18,1694.7964,0,0,0,1,HDFC ERGO Health Insurance
+35,5246.047,1,0,3,0,HDFC ERGO Health Insurance
+24,2855.43755,0,0,1,0,HDFC ERGO Health Insurance
+63,48824.45,0,1,3,0,Religare Health Insurance
+38,6455.86265,2,0,1,1,Religare Health Insurance
+54,10436.096,1,0,3,1,Religare Health Insurance
+46,8823.279,2,0,3,0,Religare Health Insurance
+41,8538.28845,3,0,0,0,Star Health Insurance
+58,11735.87905,0,0,1,1,Star Health Insurance
+18,1631.8212,0,0,2,0,Star Health Insurance
+22,4005.4225,3,0,0,1,Star Health Insurance
+44,7419.4779,0,0,1,0,Star Health Insurance
+44,7731.4271,2,0,2,1,Star Health Insurance
+36,43753.33705,3,1,0,1,Star Health Insurance
+26,3981.9768,2,0,2,0,ICICI Lambord Health Insurance
+30,5325.651,3,0,3,0,ICICI Lambord Health Insurance
+41,6775.961,1,0,3,0,ICICI Lambord Health Insurance
+29,4922.9159,2,0,1,0,ICICI Lambord Health Insurance
+61,12557.6053,0,0,2,1,ICICI Lambord Health Insurance
+36,4883.866,0,0,3,0,Religare Health Insurance
+25,2137.6536,0,0,2,1,Religare Health Insurance
+56,12044.342,1,0,1,0,Religare Health Insurance
+18,1137.4697,0,0,2,1,Religare Health Insurance
+19,1639.5631,0,0,1,1,ICICI Lambord Health Insurance
+39,5649.715,0,0,3,0,Bharti AXA eProtect
+45,8516.829,2,0,2,0,Bharti AXA eProtect
+51,9644.2525,0,0,1,0,Bharti AXA eProtect
+64,14901.5167,0,0,0,0,Bharti AXA eProtect
+19,2130.6759,0,0,1,0,Bharti AXA eProtect
+48,8871.1517,1,0,2,0,Bharti AXA eProtect
+60,13012.20865,0,0,1,0,HDFC ERGO Health Insurance
+27,37133.8982,0,1,2,0,HDFC ERGO Health Insurance
+46,7147.105,0,0,3,1,HDFC ERGO Health Insurance
+28,4337.7352,1,0,0,0,HDFC ERGO Health Insurance
+59,11743.299,0,0,2,1,HDFC ERGO Health Insurance
+35,20984.0936,2,1,0,1,New India Health Insurance
+63,13880.949,0,0,3,0,New India Health Insurance
+40,6610.1097,1,0,0,1,New India Health Insurance
+20,1980.07,1,0,3,1,New India Health Insurance
+40,8162.71625,4,0,1,1,New India Health Insurance
+24,3537.703,2,0,1,1,New India Health Insurance
+34,5002.7827,1,0,2,0,Star Health Insurance
+45,8520.026,2,0,3,0,Star Health Insurance
+41,7371.772,2,0,3,0,Star Health Insurance
+53,10355.641,0,0,1,0,Star Health Insurance
+27,2483.736,0,0,2,1,Star Health Insurance
+26,3392.9768,1,0,2,0,Star Health Insurance
+24,25081.76784,0,0,2,0,Star Health Insurance
+34,5012.471,1,0,3,0,Apollo Munich Health Insurance
+53,10564.8845,0,0,0,0,Apollo Munich Health Insurance
+32,5253.524,3,0,3,1,HDFC ERGO Health Insurance
+19,34779.615,0,1,3,1,HDFC ERGO Health Insurance
+42,19515.5416,0,1,2,1,HDFC ERGO Health Insurance
+55,11987.1682,3,0,2,1,HDFC ERGO Health Insurance
+28,2689.4954,0,0,2,1,HDFC ERGO Health Insurance
+58,24227.33724,0,0,2,0,Religare Health Insurance
+41,7358.17565,1,0,0,0,Religare Health Insurance
+47,9225.2564,2,0,0,1,Religare Health Insurance
+42,7443.64305,1,0,1,0,Religare Health Insurance
+59,14001.2867,3,0,2,0,ICICI Lambord Health Insurance
+19,1727.785,0,0,3,0,ICICI Lambord Health Insurance
+59,12333.828,1,0,3,1,ICICI Lambord Health Insurance
+39,6710.1919,2,0,1,1,ICICI Lambord Health Insurance
+40,19444.2658,2,1,2,0,ICICI Lambord Health Insurance
+18,1615.7667,0,0,2,0,ICICI Lambord Health Insurance
+31,4463.2051,2,0,2,1,ICICI Lambord Health Insurance
+19,17352.6803,0,1,1,1,ICICI Lambord Health Insurance
+44,7152.6714,1,0,2,1,ICICI Lambord Health Insurance
+23,38511.6283,2,1,0,0,New India Health Insurance
+33,5354.07465,1,0,0,0,New India Health Insurance
+55,35160.13457,1,0,3,0,New India Health Insurance
+40,7196.867,3,0,3,1,New India Health Insurance
+63,29523.1656,0,1,0,0,New India Health Insurance
+54,24476.47851,0,0,1,1,New India Health Insurance
+60,12648.7034,0,0,2,0,Star Health Insurance
+24,1986.9334,0,0,2,1,Star Health Insurance
+19,1832.094,1,0,3,1,Star Health Insurance
+29,4040.55825,1,0,0,1,Star Health Insurance
+18,12829.4551,2,1,0,1,Star Health Insurance
+63,47305.305,2,1,3,0,Star Health Insurance
+54,44260.7499,2,1,2,1,Star Health Insurance
+27,4260.744,3,0,3,1,Bharti AXA eProtect
+50,41097.16175,0,1,0,1,Bharti AXA eProtect
+55,13047.33235,3,0,0,0,Bharti AXA eProtect
+56,43921.1837,0,1,1,1,Bharti AXA eProtect
+38,5400.9805,0,0,2,0,Bharti AXA eProtect
+51,11520.09985,4,0,1,1,HDFC ERGO Health Insurance
+19,33750.2918,0,1,1,1,HDFC ERGO Health Insurance
+58,11837.16,0,0,3,0,HDFC ERGO Health Insurance
+20,17085.2676,1,1,2,0,HDFC ERGO Health Insurance
+52,24869.8368,3,1,0,1,HDFC ERGO Health Insurance
+19,36219.40545,0,1,1,1,Religare Health Insurance
+53,20462.99766,3,0,2,0,Religare Health Insurance
+46,46151.1245,3,1,2,1,Religare Health Insurance
+40,17179.522,1,1,2,1,Religare Health Insurance
+59,14590.63205,3,0,0,0,ICICI Lambord Health Insurance
+45,7441.053,1,0,3,1,ICICI Lambord Health Insurance
+49,9282.4806,1,0,0,1,ICICI Lambord Health Insurance
+18,1719.4363,1,0,2,1,ICICI Lambord Health Insurance
+50,42856.838,2,1,3,1,Religare Health Insurance
+41,7265.7025,2,0,1,1,Religare Health Insurance
+50,9617.66245,1,0,0,1,Religare Health Insurance
+25,2523.1695,0,0,1,1,Religare Health Insurance
+47,9715.841,2,0,0,0,ICICI Lambord Health Insurance
+19,2803.69785,2,0,1,1,Star Health Insurance
+22,2150.469,0,0,3,0,Star Health Insurance
+59,12928.7911,2,0,2,1,Star Health Insurance
+51,9855.1314,1,0,2,0,Star Health Insurance
+40,22331.5668,1,1,0,0,Star Health Insurance
+54,48549.17835,3,1,0,1,Star Health Insurance
+30,4237.12655,1,0,0,1,Star Health Insurance
+55,11879.10405,1,0,0,0,Star Health Insurance
+52,9625.92,0,0,3,0,Star Health Insurance
+46,7742.1098,1,0,2,1,Star Health Insurance
+46,9432.9253,2,0,0,0,Star Health Insurance
+63,14256.1928,0,0,1,0,Star Health Insurance
+59,47896.79135,1,1,0,0,Star Health Insurance
+52,25992.82104,3,0,2,1,ICICI Lambord Health Insurance
+28,3172.018,0,0,3,0,ICICI Lambord Health Insurance
+29,20277.80751,1,0,0,1,ICICI Lambord Health Insurance
+25,42112.2356,2,1,2,1,ICICI Lambord Health Insurance
+22,2156.7518,0,0,2,0,ICICI Lambord Health Insurance
+25,3906.127,3,0,3,1,Religare Health Insurance
+18,1704.5681,0,0,0,1,Religare Health Insurance
+19,16297.846,0,1,3,1,Religare Health Insurance
+47,21978.6769,1,1,2,1,Religare Health Insurance
+31,38746.3551,3,1,1,1,ICICI Lambord Health Insurance
+48,9249.4952,1,0,1,0,ICICI Lambord Health Insurance
+36,6746.7425,3,0,0,1,Star Health Insurance
+53,24873.3849,3,1,0,0,Star Health Insurance
+56,12265.5069,2,0,2,0,Star Health Insurance
+28,4349.462,2,0,2,0,Star Health Insurance
+57,12646.207,2,0,3,0,Star Health Insurance
+29,19442.3535,2,0,1,1,Star Health Insurance
+28,20177.67113,2,0,3,0,Bharti AXA eProtect
+30,4151.0287,1,0,2,0,Bharti AXA eProtect
+58,11944.59435,0,0,0,1,Bharti AXA eProtect
+41,7749.1564,2,0,1,0,Bharti AXA eProtect
+50,8444.474,0,0,3,1,Bharti AXA eProtect
+19,1737.376,0,0,3,0,HDFC ERGO Health Insurance
+43,42124.5153,3,1,2,1,HDFC ERGO Health Insurance
+49,8124.4084,0,0,2,1,HDFC ERGO Health Insurance
+27,34838.873,0,1,3,0,HDFC ERGO Health Insurance
+52,9722.7695,0,0,0,1,HDFC ERGO Health Insurance
+50,8835.26495,0,0,1,1,Religare Health Insurance
+54,10435.06525,0,0,0,1,Religare Health Insurance
+44,7421.19455,0,0,1,0,Religare Health Insurance
+32,4667.60765,1,0,0,1,Religare Health Insurance
+34,4894.7533,1,0,1,1,ICICI Lambord Health Insurance
+26,24671.66334,4,0,0,0,ICICI Lambord Health Insurance
+34,35491.64,0,1,3,1,ICICI Lambord Health Insurance
+57,11566.30055,0,0,0,1,ICICI Lambord Health Insurance
+29,2866.091,0,0,3,1,Star Health Insurance
+40,6600.20595,1,0,0,1,Star Health Insurance
+27,3561.8889,1,0,2,0,Star Health Insurance
+45,42760.5022,2,1,1,1,Star Health Insurance
+64,47928.03,1,1,3,0,Star Health Insurance
+52,9144.565,0,0,3,1,Star Health Insurance
+61,48517.56315,1,1,0,0,Star Health Insurance
+52,24393.6224,0,1,1,1,Religare Health Insurance
+61,13429.0354,0,0,1,0,Religare Health Insurance
+56,11658.37915,0,0,0,0,Religare Health Insurance
+43,19144.57652,2,0,0,0,Religare Health Insurance
+64,13822.803,0,0,3,1,ICICI Lambord Health Insurance
+60,12142.5786,0,0,2,1,ICICI Lambord Health Insurance
+62,13937.6665,1,0,1,1,ICICI Lambord Health Insurance
+50,41919.097,1,1,0,1,ICICI Lambord Health Insurance
+46,8232.6388,1,0,2,0,Bharti AXA eProtect
+24,18955.22017,0,0,3,0,Bharti AXA eProtect
+62,13352.0998,0,0,1,1,Bharti AXA eProtect
+60,13217.0945,0,0,0,0,Bharti AXA eProtect
+63,13981.85035,0,0,0,1,Bharti AXA eProtect
+49,10977.2063,4,0,2,0,Bharti AXA eProtect
+34,6184.2994,3,0,2,0,Bharti AXA eProtect
+33,4889.9995,2,0,2,1,Bharti AXA eProtect
+46,8334.45755,1,0,0,1,Bharti AXA eProtect
+36,5478.0368,1,0,2,0,Bharti AXA eProtect
+19,1635.73365,0,0,1,1,Bharti AXA eProtect
+57,11830.6072,0,0,1,0,Bharti AXA eProtect
+50,8932.084,0,0,3,0,Bharti AXA eProtect
+30,3554.203,0,0,3,0,Bharti AXA eProtect
+33,12404.8791,0,0,0,1,Bharti AXA eProtect
+18,14133.03775,0,0,2,0,HDFC ERGO Health Insurance
+46,24603.04837,0,0,3,1,HDFC ERGO Health Insurance
+46,8944.1151,3,0,2,1,HDFC ERGO Health Insurance
+47,9620.3307,3,0,1,1,HDFC ERGO Health Insurance
+23,1837.2819,0,0,2,1,HDFC ERGO Health Insurance
+18,1607.5101,0,0,2,0,New India Health Insurance
+48,10043.249,2,0,0,0,New India Health Insurance
+35,4751.07,1,0,3,1,New India Health Insurance
+19,13844.506,0,1,3,0,New India Health Insurance
+21,2597.779,1,0,3,0,Star Health Insurance
+21,3180.5101,2,0,2,0,Star Health Insurance
+49,9778.3472,1,0,0,0,Star Health Insurance
+56,13430.265,3,0,0,0,Star Health Insurance
+42,8017.06115,2,0,1,0,Star Health Insurance
+44,8116.26885,2,0,1,1,Star Health Insurance
+18,3481.868,3,0,0,1,Star Health Insurance
+61,13415.0381,0,0,1,0,ICICI Lambord Health Insurance
+57,12029.2867,0,0,0,0,Religare Health Insurance
+42,7639.41745,1,0,0,0,Religare Health Insurance
+26,36085.219,2,1,3,1,Religare Health Insurance
+20,1391.5287,0,0,2,1,Religare Health Insurance
+23,18033.9679,0,1,1,0,ICICI Lambord Health Insurance
+39,21659.9301,3,1,0,0,ICICI Lambord Health Insurance
+24,38126.2465,0,1,2,1,ICICI Lambord Health Insurance
+64,16455.70785,3,0,1,0,ICICI Lambord Health Insurance
+62,27000.98473,1,0,2,1,ICICI Lambord Health Insurance
+27,15006.57945,2,1,0,0,Religare Health Insurance
+55,42303.69215,0,1,0,1,Religare Health Insurance
+55,20781.48892,0,0,2,1,Religare Health Insurance
+35,5846.9176,2,0,2,0,Religare Health Insurance
+44,8302.53565,2,0,0,1,Apollo Munich Health Insurance
+19,1261.859,0,0,3,1,HDFC ERGO Health Insurance
+58,11856.4115,0,0,2,0,HDFC ERGO Health Insurance
+50,30284.64294,2,0,1,1,HDFC ERGO Health Insurance
+26,3176.8159,0,0,1,0,HDFC ERGO Health Insurance
+24,4618.0799,3,0,1,0,HDFC ERGO Health Insurance
+48,10736.87075,4,0,0,1,New India Health Insurance
+19,2138.0707,0,0,1,0,New India Health Insurance
+48,8964.06055,1,0,0,1,New India Health Insurance
+49,9290.1395,1,0,0,1,New India Health Insurance
+46,9411.005,2,0,0,0,New India Health Insurance
+46,7526.70645,0,0,1,1,New India Health Insurance
+43,8522.003,3,0,3,0,Star Health Insurance
+21,16586.49771,0,0,2,1,Star Health Insurance
+64,14988.432,2,0,3,1,Star Health Insurance
+18,1631.6683,0,0,2,0,Star Health Insurance
+51,9264.797,0,0,3,0,Star Health Insurance
+47,8083.9198,1,0,2,1,Star Health Insurance
+64,14692.66935,0,0,1,0,Star Health Insurance
+49,10269.46,3,0,1,1,ICICI Lambord Health Insurance
+31,3260.199,0,0,3,1,ICICI Lambord Health Insurance
+52,11396.9002,2,0,0,0,ICICI Lambord Health Insurance
+33,4185.0979,0,0,2,0,ICICI Lambord Health Insurance
+47,8539.671,1,0,3,0,ICICI Lambord Health Insurance
+38,6652.5288,3,0,2,1,ICICI Lambord Health Insurance
+32,4074.4537,1,0,2,1,ICICI Lambord Health Insurance
+19,1621.3402,0,0,1,1,ICICI Lambord Health Insurance
+44,19594.80965,1,1,0,0,Religare Health Insurance
+26,14455.64405,2,1,0,0,Religare Health Insurance
+25,5080.096,5,0,3,1,Religare Health Insurance
+19,2134.9015,0,0,1,0,Religare Health Insurance
+43,7345.7266,1,0,2,0,Religare Health Insurance
+52,9140.951,0,0,2,1,Apollo Munich Health Insurance
+36,18608.262,2,1,3,0,Apollo Munich Health Insurance
+64,14418.2804,1,0,2,1,HDFC ERGO Health Insurance
+63,28950.4692,0,1,1,0,HDFC ERGO Health Insurance
+64,46889.2612,0,1,2,1,HDFC ERGO Health Insurance
+61,46599.1084,0,1,2,1,HDFC ERGO Health Insurance
+40,39125.33225,1,1,0,1,HDFC ERGO Health Insurance
+25,2727.3951,0,0,0,1,New India Health Insurance
+48,8968.33,2,0,3,1,New India Health Insurance
+45,9788.8659,5,0,2,1,New India Health Insurance
+38,6555.07035,1,0,0,0,New India Health Insurance
+18,7323.734819,0,0,0,0,New India Health Insurance
+21,3167.45585,1,0,0,0,New India Health Insurance
+27,18804.7524,3,0,1,0,Star Health Insurance
+19,23082.95533,0,0,3,1,Star Health Insurance
+29,4906.40965,2,0,1,0,Star Health Insurance
+42,5969.723,0,0,3,1,Star Health Insurance
+60,12638.195,0,0,3,0,Star Health Insurance
+31,4243.59005,1,0,1,1,Star Health Insurance
+60,13919.8229,3,0,2,1,Star Health Insurance
+22,2254.7967,0,0,0,1,Religare Health Insurance
+35,5926.846,3,0,3,1,Religare Health Insurance
+52,12592.5345,5,0,2,0,Religare Health Insurance
+26,2897.3235,0,0,0,1,Religare Health Insurance
+31,4738.2682,1,0,1,0,Apollo Munich Health Insurance
+33,37079.372,0,1,3,0,Apollo Munich Health Insurance
+18,1149.3959,0,0,2,1,HDFC ERGO Health Insurance
+59,28287.89766,1,0,2,0,HDFC ERGO Health Insurance
+56,26109.32905,1,1,1,1,HDFC ERGO Health Insurance
+45,7345.084,0,0,3,0,HDFC ERGO Health Insurance
+60,12730.9996,0,0,0,1,HDFC ERGO Health Insurance
+56,11454.0215,0,0,1,0,ICICI Lambord Health Insurance
+40,5910.944,0,0,3,0,ICICI Lambord Health Insurance
+35,4762.329,1,0,3,1,ICICI Lambord Health Insurance
+39,7512.267,4,0,3,1,ICICI Lambord Health Insurance
+30,4032.2407,1,0,1,1,Religare Health Insurance
+24,1969.614,0,0,3,1,Religare Health Insurance
+20,1769.53165,0,0,1,1,Religare Health Insurance
+32,4686.3887,2,0,2,1,Religare Health Insurance
+59,21797.0004,0,0,3,1,Apollo Munich Health Insurance
+55,11881.9696,2,0,2,0,Apollo Munich Health Insurance
+57,11840.77505,0,0,1,0,HDFC ERGO Health Insurance
+56,10601.412,0,0,3,1,HDFC ERGO Health Insurance
+40,7682.67,3,0,2,0,HDFC ERGO Health Insurance
+49,10381.4787,3,0,2,0,HDFC ERGO Health Insurance
+42,22144.032,0,1,3,1,HDFC ERGO Health Insurance
+62,15230.32405,2,0,0,0,New India Health Insurance
+56,11165.41765,0,0,0,1,New India Health Insurance
+19,1632.03625,0,0,1,1,New India Health Insurance
+30,19521.9682,1,1,2,0,New India Health Insurance
+60,13224.693,1,0,3,0,New India Health Insurance
+56,12643.3778,2,0,1,0,New India Health Insurance
+28,23288.9284,1,0,0,0,New India Health Insurance
+18,2201.0971,1,0,2,0,New India Health Insurance
+27,2497.0383,0,0,2,1,Apollo Munich Health Insurance
+18,2203.47185,0,0,0,0,Apollo Munich Health Insurance
+19,1744.465,0,0,3,0,HDFC ERGO Health Insurance
+47,20878.78443,0,0,0,0,HDFC ERGO Health Insurance
+54,25382.297,3,1,3,1,HDFC ERGO Health Insurance
+61,28868.6639,1,1,1,1,HDFC ERGO Health Insurance
+24,35147.52848,0,1,0,1,HDFC ERGO Health Insurance
+25,2534.39375,0,0,1,1,ICICI Lambord Health Insurance
+21,1534.3045,0,0,2,1,ICICI Lambord Health Insurance
+23,1824.2854,0,0,2,1,ICICI Lambord Health Insurance
+63,15555.18875,3,0,1,1,ICICI Lambord Health Insurance
+49,9304.7019,2,0,2,1,ICICI Lambord Health Insurance
+18,1622.1885,0,0,2,0,ICICI Lambord Health Insurance
+51,9880.068,1,0,3,0,ICICI Lambord Health Insurance
+48,9563.029,3,0,3,1,ICICI Lambord Health Insurance
+31,4347.02335,0,0,0,0,ICICI Lambord Health Insurance
+54,12475.3513,3,0,1,0,Religare Health Insurance
+19,1253.936,0,0,3,1,Religare Health Insurance
+44,48885.13561,0,1,2,0,Religare Health Insurance
+53,10461.9794,1,0,1,1,Religare Health Insurance
+19,1748.774,0,0,3,0,Religare Health Insurance
+61,24513.09126,0,0,2,0,Apollo Munich Health Insurance
+18,2196.4732,0,0,0,0,Apollo Munich Health Insurance
+61,12574.049,0,0,3,1,HDFC ERGO Health Insurance
+21,17942.106,4,1,3,1,HDFC ERGO Health Insurance
+20,1967.0227,0,0,0,1,HDFC ERGO Health Insurance
+31,4931.647,2,0,3,0,HDFC ERGO Health Insurance
+45,8027.968,2,0,3,1,HDFC ERGO Health Insurance
+44,8211.1002,2,0,2,0,ICICI Lambord Health Insurance
+62,13470.86,0,0,3,0,ICICI Lambord Health Insurance
+29,36197.699,0,1,3,1,ICICI Lambord Health Insurance
+43,6837.3687,0,0,0,1,ICICI Lambord Health Insurance
+51,22218.1149,1,1,2,1,Religare Health Insurance
+19,32548.3405,0,1,2,1,Religare Health Insurance
+38,5974.3847,1,0,2,0,Religare Health Insurance
+37,6796.86325,3,0,1,1,Religare Health Insurance
+22,2643.2685,1,0,1,1,Apollo Munich Health Insurance
+21,3077.0955,2,0,1,1,Apollo Munich Health Insurance
+24,3044.2133,0,0,0,0,HDFC ERGO Health Insurance
+57,11455.28,0,0,3,0,HDFC ERGO Health Insurance
+56,11763.0009,1,0,0,1,HDFC ERGO Health Insurance
+27,2498.4144,0,0,2,1,HDFC ERGO Health Insurance
+51,9361.3268,0,0,0,1,HDFC ERGO Health Insurance
+19,1256.299,0,0,3,1,New India Health Insurance
+39,21082.16,1,1,3,1,New India Health Insurance
+58,11362.755,0,0,3,1,New India Health Insurance
+20,27724.28875,1,0,2,1,New India Health Insurance
+45,8413.46305,2,0,1,1,New India Health Insurance
+35,5240.765,1,0,3,0,New India Health Insurance
+31,3857.75925,0,0,0,1,Star Health Insurance
+50,25656.57526,0,0,0,0,Star Health Insurance
+32,3994.1778,0,0,2,0,Star Health Insurance
+51,9866.30485,0,0,0,0,Star Health Insurance
+38,5397.6167,0,0,2,0,Star Health Insurance
+42,38245.59327,1,1,2,1,Star Health Insurance
+18,11482.63485,0,0,2,0,Star Health Insurance
+19,24059.68019,2,0,1,0,Religare Health Insurance
+51,9861.025,1,0,3,0,Religare Health Insurance
+46,8342.90875,1,0,0,1,Religare Health Insurance
+18,1708.0014,0,0,0,1,Religare Health Insurance
+57,48675.5177,1,1,2,1,ICICI Lambord Health Insurance
+62,14043.4767,0,0,0,0,ICICI Lambord Health Insurance
+59,12925.886,2,0,2,1,ICICI Lambord Health Insurance
+37,19214.70553,0,0,2,1,Apollo Munich Health Insurance
+64,13831.1152,0,0,2,1,Apollo Munich Health Insurance
+38,6067.12675,1,0,0,1,HDFC ERGO Health Insurance
+33,5972.378,3,0,3,0,HDFC ERGO Health Insurance
+46,8825.086,2,0,3,0,HDFC ERGO Health Insurance
+46,8233.0975,1,0,2,0,HDFC ERGO Health Insurance
+53,27346.04207,0,0,2,1,HDFC ERGO Health Insurance
+34,6196.448,3,0,3,0,Religare Health Insurance
+20,3056.3881,2,0,2,0,Religare Health Insurance
+63,13887.204,0,0,2,0,Religare Health Insurance
+54,63770.42801,0,1,2,0,Religare Health Insurance
+54,10231.4999,0,0,1,1,ICICI Lambord Health Insurance
+49,23807.2406,2,1,1,1,New India Health Insurance
+28,3268.84665,0,0,0,1,New India Health Insurance
+54,11538.421,2,0,3,0,New India Health Insurance
+25,3213.62205,0,0,0,0,New India Health Insurance
+43,45863.205,0,1,2,0,New India Health Insurance
+63,13390.559,0,0,3,1,New India Health Insurance
+32,3972.9247,0,0,2,0,Apollo Munich Health Insurance
+62,12957.118,0,0,3,1,Apollo Munich Health Insurance
+52,11187.6567,2,0,1,0,Apollo Munich Health Insurance
+25,17878.90068,0,0,0,0,Apollo Munich Health Insurance
+28,3847.674,2,0,3,1,Apollo Munich Health Insurance
+46,8334.5896,1,0,0,1,Apollo Munich Health Insurance
+34,3935.1799,0,0,2,1,Apollo Munich Health Insurance
+35,39983.42595,3,1,1,0,Apollo Munich Health Insurance
+19,1646.4297,0,0,1,1,Apollo Munich Health Insurance
+46,9193.8385,2,0,1,0,Apollo Munich Health Insurance
+54,10923.9332,0,0,0,0,Apollo Munich Health Insurance
+27,2494.022,0,0,3,1,Apollo Munich Health Insurance
+50,9058.7303,1,0,2,1,Apollo Munich Health Insurance
+18,2801.2588,2,0,2,0,Apollo Munich Health Insurance
+19,2128.43105,0,0,1,0,Apollo Munich Health Insurance
+38,6373.55735,1,0,1,0,Apollo Munich Health Insurance
+41,7256.7231,2,0,1,1,Apollo Munich Health Insurance
+49,11552.904,5,0,3,0,Apollo Munich Health Insurance
+48,45702.02235,2,1,1,1,Apollo Munich Health Insurance
+31,3761.292,0,0,3,0,Apollo Munich Health Insurance
+18,2219.4451,1,0,2,0,Apollo Munich Health Insurance
+30,4753.6368,2,0,2,0,Apollo Munich Health Insurance
+62,31620.00106,1,0,0,0,Apollo Munich Health Insurance
+57,13224.05705,2,0,0,0,Apollo Munich Health Insurance
+58,12222.8983,0,0,1,0,Apollo Munich Health Insurance
+22,1664.9996,0,0,2,1,Apollo Munich Health Insurance
+31,58571.07448,1,1,0,0,Apollo Munich Health Insurance
+52,9724.53,1,0,3,1,Apollo Munich Health Insurance
+25,3206.49135,0,0,0,0,Apollo Munich Health Insurance
+59,12913.9924,1,0,0,1,Apollo Munich Health Insurance
+19,1639.5631,0,0,1,1,Apollo Munich Health Insurance
+39,6356.2707,2,0,2,1,Apollo Munich Health Insurance
+32,17626.23951,1,0,2,0,Apollo Munich Health Insurance
+19,1242.816,0,0,3,1,Apollo Munich Health Insurance
+33,4779.6023,1,0,2,0,Apollo Munich Health Insurance
+21,3861.20965,3,0,0,1,Apollo Munich Health Insurance
+34,43943.8761,1,1,1,0,Apollo Munich Health Insurance
+61,13635.6379,0,0,0,0,Apollo Munich Health Insurance
+38,5976.8311,1,0,2,0,Apollo Munich Health Insurance
+58,11842.442,0,0,3,0,Apollo Munich Health Insurance
+47,8428.0693,1,0,1,1,Apollo Munich Health Insurance
+20,2566.4707,2,0,2,1,Apollo Munich Health Insurance
+21,15359.1045,1,1,0,0,Apollo Munich Health Insurance
+41,5709.1644,0,0,2,1,Apollo Munich Health Insurance
+46,8823.98575,1,0,0,0,Apollo Munich Health Insurance
+42,7640.3092,2,0,2,0,Apollo Munich Health Insurance
+34,5594.8455,1,0,0,0,Apollo Munich Health Insurance
+43,7441.501,2,0,3,1,Apollo Munich Health Insurance
+52,33471.97189,2,0,1,0,Apollo Munich Health Insurance
+18,1633.0444,0,0,2,0,Apollo Munich Health Insurance
+51,9174.13565,0,0,1,1,Apollo Munich Health Insurance
+56,11070.535,0,0,3,0,Apollo Munich Health Insurance
+64,16085.1275,3,0,2,0,Apollo Munich Health Insurance
+19,17468.9839,0,1,1,0,Apollo Munich Health Insurance
+51,9283.562,0,0,2,0,Apollo Munich Health Insurance
+27,3558.62025,0,0,0,0,Apollo Munich Health Insurance
+59,25678.77845,0,1,1,0,Apollo Munich Health Insurance
+28,4435.0942,2,0,0,1,Apollo Munich Health Insurance
+30,39241.442,2,1,3,1,Apollo Munich Health Insurance
+47,8547.6913,1,0,2,0,Apollo Munich Health Insurance
+38,6571.544,2,0,3,0,Apollo Munich Health Insurance
+18,2207.69745,0,0,0,0,Apollo Munich Health Insurance
+34,6753.038,3,0,0,0,Apollo Munich Health Insurance
+20,1880.07,0,0,2,0,Apollo Munich Health Insurance
+47,42969.8527,1,1,2,0,Apollo Munich Health Insurance
+56,11658.11505,0,0,0,0,Apollo Munich Health Insurance
+49,23306.547,2,1,3,1,Apollo Munich Health Insurance
+19,34439.8559,0,1,2,0,Apollo Munich Health Insurance
+55,10713.644,0,0,3,0,Apollo Munich Health Insurance
+30,3659.346,1,0,3,1,Apollo Munich Health Insurance
+37,40182.246,4,1,3,1,Apollo Munich Health Insurance
+49,9182.17,1,0,3,0,HDFC ERGO Health Insurance
+18,34617.84065,0,1,0,1,HDFC ERGO Health Insurance
+59,12129.61415,0,0,1,1,HDFC ERGO Health Insurance
+29,3736.4647,0,0,1,0,HDFC ERGO Health Insurance
+36,6748.5912,3,0,0,1,HDFC ERGO Health Insurance
+33,11326.71487,1,0,2,1,HDFC ERGO Health Insurance
+58,11365.952,0,0,3,1,HDFC ERGO Health Insurance
+44,42983.4585,0,1,1,0,HDFC ERGO Health Insurance
+53,10085.846,1,0,3,1,HDFC ERGO Health Insurance
+24,1977.815,0,0,3,1,HDFC ERGO Health Insurance
+29,3366.6697,0,0,2,0,HDFC ERGO Health Insurance
+40,7173.35995,2,0,0,1,HDFC ERGO Health Insurance
+51,9391.346,1,0,3,1,HDFC ERGO Health Insurance
+64,14410.9321,0,0,0,1,HDFC ERGO Health Insurance
+19,2709.1119,1,0,1,0,HDFC ERGO Health Insurance
+35,24915.04626,2,0,0,0,HDFC ERGO Health Insurance
+39,20149.3229,0,1,0,1,HDFC ERGO Health Insurance
+56,12949.1554,4,0,2,1,HDFC ERGO Health Insurance
+33,6666.243,5,0,3,1,HDFC ERGO Health Insurance
+42,32787.45859,3,1,1,1,HDFC ERGO Health Insurance
+61,13143.86485,0,0,0,1,HDFC ERGO Health Insurance
+23,4466.6214,3,0,1,0,HDFC ERGO Health Insurance
+43,18806.14547,2,0,2,1,HDFC ERGO Health Insurance
+48,10141.1362,3,0,0,1,HDFC ERGO Health Insurance
+39,6123.5688,1,0,1,1,HDFC ERGO Health Insurance
+40,8252.2843,3,0,0,0,HDFC ERGO Health Insurance
+18,1712.227,0,0,0,1,HDFC ERGO Health Insurance
+58,12430.95335,0,0,0,0,HDFC ERGO Health Insurance
+49,9800.8882,2,0,2,0,HDFC ERGO Health Insurance
+53,10579.711,1,0,2,0,HDFC ERGO Health Insurance
+48,8280.6227,0,0,2,0,HDFC ERGO Health Insurance
+45,8527.532,2,0,2,0,HDFC ERGO Health Insurance
+59,12244.531,0,0,2,0,HDFC ERGO Health Insurance
+52,24667.419,2,1,2,0,HDFC ERGO Health Insurance
+26,3410.324,1,0,3,0,HDFC ERGO Health Insurance
+27,4058.71245,2,0,1,1,HDFC ERGO Health Insurance
+48,26392.26029,1,0,0,0,HDFC ERGO Health Insurance
+57,14394.39815,4,0,0,0,HDFC ERGO Health Insurance
+37,6435.6237,3,0,2,1,Star Health Insurance
+57,22192.43711,1,0,2,0,Star Health Insurance
+32,5148.5526,1,0,0,0,Star Health Insurance
+18,1136.3994,0,0,2,1,Star Health Insurance
+64,27037.9141,0,1,2,0,Star Health Insurance
+43,42560.4304,2,1,2,1,Star Health Insurance
+49,8703.456,1,0,3,1,Star Health Insurance
+40,40003.33225,2,1,1,0,Star Health Insurance
+62,45710.20785,0,1,0,1,Star Health Insurance
+40,6500.2359,1,0,2,0,Apollo Munich Health Insurance
+30,4837.5823,3,0,2,1,Apollo Munich Health Insurance
+29,3943.5954,0,0,0,0,Apollo Munich Health Insurance
+36,4399.731,0,0,2,1,Apollo Munich Health Insurance
+41,6185.3208,0,0,2,0,Apollo Munich Health Insurance
+44,46200.9851,2,1,2,0,Apollo Munich Health Insurance
+45,7222.78625,0,0,1,1,Apollo Munich Health Insurance
+55,12485.8009,3,0,2,0,Apollo Munich Health Insurance
+60,46130.5265,3,1,1,1,Apollo Munich Health Insurance
+56,12363.547,3,0,3,1,Apollo Munich Health Insurance
+49,10156.7832,2,0,1,0,Apollo Munich Health Insurance
+21,2585.269,1,0,3,0,Apollo Munich Health Insurance
+19,1242.26,0,0,3,1,Apollo Munich Health Insurance
+39,40103.89,2,1,3,1,HDFC ERGO Health Insurance
+53,9863.4718,0,0,1,1,HDFC ERGO Health Insurance
+33,4766.022,1,0,3,0,HDFC ERGO Health Insurance
+53,11244.3769,2,0,0,1,HDFC ERGO Health Insurance
+42,7729.64575,2,0,0,1,HDFC ERGO Health Insurance
+40,5438.7491,0,0,2,1,HDFC ERGO Health Insurance
+47,26236.57997,1,0,3,0,HDFC ERGO Health Insurance
+27,34806.4677,1,1,2,1,ICICI Lambord Health Insurance
+21,2104.1134,0,0,0,1,ICICI Lambord Health Insurance
+47,8068.185,1,0,3,1,ICICI Lambord Health Insurance
+20,2362.22905,1,0,1,1,ICICI Lambord Health Insurance
+24,2352.96845,0,0,1,1,ICICI Lambord Health Insurance
+27,3577.999,1,0,3,0,ICICI Lambord Health Insurance
+26,3201.24515,0,0,1,0,ICICI Lambord Health Insurance
+53,29186.48236,2,0,0,0,Star Health Insurance
+41,40273.6455,1,1,2,1,Star Health Insurance
+56,10976.24575,0,0,1,1,Star Health Insurance
+23,3500.6123,2,0,2,0,Star Health Insurance
+21,2020.5523,0,0,2,0,New India Health Insurance
+50,9541.69555,0,0,0,0,New India Health Insurance
+53,9504.3103,0,0,2,1,New India Health Insurance
+34,5385.3379,1,0,1,0,New India Health Insurance
+47,8930.93455,1,0,1,0,New India Health Insurance
+33,5375.038,2,0,3,0,New India Health Insurance
+51,44400.4064,0,1,2,0,New India Health Insurance
+49,10264.4421,3,0,1,1,Apollo Munich Health Insurance
+31,6113.23105,3,0,0,0,Apollo Munich Health Insurance
+36,5469.0066,0,0,0,0,Apollo Munich Health Insurance
+18,1727.54,1,0,2,1,Apollo Munich Health Insurance
+50,10107.2206,2,0,2,0,Apollo Munich Health Insurance
+43,8310.83915,2,0,1,0,Apollo Munich Health Insurance
+20,1984.4533,0,0,0,1,Apollo Munich Health Insurance
+24,2457.502,0,0,3,0,HDFC ERGO Health Insurance
+60,12146.971,0,0,3,1,HDFC ERGO Health Insurance
+49,9566.9909,1,0,1,0,HDFC ERGO Health Insurance
+60,13112.6048,1,0,1,1,HDFC ERGO Health Insurance
+51,10848.1343,2,0,1,0,HDFC ERGO Health Insurance
+58,12231.6136,0,0,1,0,HDFC ERGO Health Insurance
+51,9875.6804,0,0,0,0,HDFC ERGO Health Insurance
+53,11264.541,3,0,3,1,ICICI Lambord Health Insurance
+62,12979.358,0,0,3,1,ICICI Lambord Health Insurance
+19,1263.249,0,0,3,1,ICICI Lambord Health Insurance
+50,10106.13425,1,0,0,0,ICICI Lambord Health Insurance
+30,40932.4295,3,1,2,0,ICICI Lambord Health Insurance
+41,6664.68595,1,0,1,1,ICICI Lambord Health Insurance
+29,16657.71745,1,1,0,0,ICICI Lambord Health Insurance
+18,2217.6012,0,0,0,0,Religare Health Insurance
+41,6781.3542,1,0,2,0,Religare Health Insurance
+35,19361.9988,3,1,2,1,Religare Health Insurance
+53,10065.413,1,0,3,1,Religare Health Insurance
+24,4234.927,3,0,3,0,Religare Health Insurance
+48,9447.25035,1,0,0,0,Religare Health Insurance
+59,14007.222,3,0,3,0,Religare Health Insurance
+49,9583.8933,1,0,1,0,ICICI Lambord Health Insurance
+37,40419.0191,0,1,2,0,ICICI Lambord Health Insurance
+26,3484.331,2,0,3,1,ICICI Lambord Health Insurance
+23,36189.1017,3,1,0,1,ICICI Lambord Health Insurance
+29,44585.45587,2,1,3,1,ICICI Lambord Health Insurance
+45,8604.48365,2,0,0,1,Star Health Insurance
+27,18246.4955,0,1,2,1,Star Health Insurance
+53,43254.41795,0,1,0,1,Star Health Insurance
+31,3757.8448,0,0,2,0,Star Health Insurance
+50,8827.2099,0,0,1,1,New India Health Insurance
+50,9910.35985,1,0,1,0,New India Health Insurance
+34,11737.84884,2,0,3,1,New India Health Insurance
+19,1627.28245,0,0,1,1,New India Health Insurance
+47,8556.907,1,0,3,0,New India Health Insurance
+28,3062.50825,0,0,1,1,New India Health Insurance
+37,19539.243,0,1,2,0,New India Health Insurance
+21,1906.35825,0,0,1,1,New India Health Insurance
+64,14210.53595,0,0,1,1,New India Health Insurance
+58,11833.7823,0,0,2,0,New India Health Insurance
+24,17128.42608,4,0,0,1,New India Health Insurance
+31,5031.26955,2,0,0,1,New India Health Insurance
+39,7985.815,3,0,0,0,New India Health Insurance
+47,23065.4207,0,1,2,0,New India Health Insurance
+30,5428.7277,3,0,0,1,New India Health Insurance
+18,36307.7983,0,1,2,1,New India Health Insurance
+22,3925.7582,2,0,0,0,New India Health Insurance
+23,2416.955,1,0,3,1,New India Health Insurance
+33,19040.876,1,1,3,1,New India Health Insurance
+27,3070.8087,0,0,0,1,New India Health Insurance
+45,9095.06825,2,0,0,0,New India Health Insurance
+57,11842.62375,0,0,1,0,New India Health Insurance
+47,8062.764,1,0,3,1,Apollo Munich Health Insurance
+42,7050.642,1,0,3,0,Apollo Munich Health Insurance
+64,14319.031,0,0,3,0,Apollo Munich Health Insurance
+38,6933.24225,2,0,1,0,Apollo Munich Health Insurance
+61,27941.28758,3,0,3,1,HDFC ERGO Health Insurance
+53,11150.78,2,0,3,0,HDFC ERGO Health Insurance
+44,12797.20962,0,0,0,0,HDFC ERGO Health Insurance
+19,17748.5062,0,1,1,0,HDFC ERGO Health Insurance
+41,7261.741,2,0,1,1,HDFC ERGO Health Insurance
+51,10560.4917,3,0,2,1,HDFC ERGO Health Insurance
+40,6986.697,2,0,1,1,HDFC ERGO Health Insurance
+45,7448.40395,0,0,0,1,ICICI Lambord Health Insurance
+35,5934.3798,3,0,2,1,ICICI Lambord Health Insurance
+53,9869.8102,0,0,1,1,Religare Health Insurance
+30,18259.216,3,1,3,1,Religare Health Insurance
+18,1146.7966,0,0,2,1,Religare Health Insurance
+51,9386.1613,1,0,2,1,Religare Health Insurance
+50,24520.264,1,1,3,0,Religare Health Insurance
+31,4350.5144,1,0,2,0,Religare Health Insurance
+35,6414.178,3,0,3,0,Religare Health Insurance
+60,12741.16745,0,0,0,1,ICICI Lambord Health Insurance
+21,1917.3184,0,0,1,1,ICICI Lambord Health Insurance
+29,5209.57885,3,0,0,1,Star Health Insurance
+62,13457.9608,0,0,2,0,Star Health Insurance
+39,5662.225,0,0,2,0,Star Health Insurance
+19,1252.407,0,0,3,1,Star Health Insurance
+22,2731.9122,0,0,0,0,ICICI Lambord Health Insurance
+53,21195.818,0,1,2,1,ICICI Lambord Health Insurance
+39,7209.4918,2,0,1,0,ICICI Lambord Health Insurance
+27,18310.742,0,1,1,1,ICICI Lambord Health Insurance
+30,4266.1658,2,0,2,1,Religare Health Insurance
+30,4719.52405,1,0,0,0,Religare Health Insurance
+58,11848.141,0,0,3,0,Religare Health Insurance
+33,17904.52705,0,1,0,1,Religare Health Insurance
+42,7046.7222,1,0,2,0,Religare Health Insurance
+64,14313.8463,0,0,2,0,Religare Health Insurance
+21,2103.08,1,0,3,1,Religare Health Insurance
+18,38792.6856,0,1,2,0,Star Health Insurance
+23,1815.8759,0,0,2,1,Star Health Insurance
+45,7731.85785,0,0,1,0,Star Health Insurance
+40,28476.73499,1,0,1,0,Star Health Insurance
+19,2136.88225,0,0,1,0,New India Health Insurance
+18,1131.5066,0,0,2,1,New India Health Insurance
+25,3309.7926,1,0,0,1,New India Health Insurance
+46,9414.92,3,0,3,0,New India Health Insurance
+33,6360.9936,3,0,1,0,New India Health Insurance
+54,11013.7119,2,0,2,1,New India Health Insurance
+28,4428.88785,2,0,0,1,New India Health Insurance
+36,5584.3057,2,0,2,1,New India Health Insurance
+20,1877.9294,0,0,2,0,New India Health Insurance
+24,2842.76075,0,0,1,0,New India Health Insurance
+23,3597.596,3,0,3,1,New India Health Insurance
+47,23401.30575,1,1,0,0,Star Health Insurance
+33,55135.40209,0,1,1,0,Star Health Insurance
+45,7445.918,1,0,3,1,Star Health Insurance
+26,2680.9493,0,0,1,1,Star Health Insurance
+18,1621.8827,0,0,2,0,ICICI Lambord Health Insurance
+44,8219.2039,2,0,2,0,ICICI Lambord Health Insurance
+60,12523.6048,0,0,1,1,ICICI Lambord Health Insurance
+64,16069.08475,2,0,0,0,Religare Health Insurance
+56,43813.8661,2,1,2,1,Religare Health Insurance
+36,20773.62775,1,1,0,1,Religare Health Insurance
+41,39597.4072,3,1,0,1,Religare Health Insurance
+39,6117.4945,1,0,1,1,Religare Health Insurance
+63,13393.756,0,0,3,1,ICICI Lambord Health Insurance
+36,5266.3656,0,0,1,0,ICICI Lambord Health Insurance
+28,4719.73655,2,0,1,0,ICICI Lambord Health Insurance
+58,11743.9341,0,0,1,1,HDFC ERGO Health Insurance
+36,5377.4578,1,0,1,1,HDFC ERGO Health Insurance
+42,7160.3303,2,0,2,1,HDFC ERGO Health Insurance
+36,4402.233,0,0,3,1,HDFC ERGO Health Insurance
+56,11657.7189,0,0,0,0,HDFC ERGO Health Insurance
+35,6402.29135,2,0,0,0,HDFC ERGO Health Insurance
+59,12622.1795,0,0,1,0,HDFC ERGO Health Insurance
+21,1526.312,0,0,3,1,New India Health Insurance
+59,12323.936,0,0,0,1,New India Health Insurance
+23,36021.0112,2,1,2,0,New India Health Insurance
+57,27533.9129,0,1,2,0,New India Health Insurance
+53,10072.05505,0,0,0,1,New India Health Insurance
+60,45008.9555,0,1,2,0,New India Health Insurance
+51,9872.701,1,0,3,0,New India Health Insurance
+23,2438.0552,1,0,2,1,New India Health Insurance
+27,2974.126,0,0,3,0,Star Health Insurance
+55,10601.63225,0,0,1,1,Star Health Insurance
+37,37270.1512,0,1,0,0,Star Health Insurance
+61,14119.62,2,0,1,1,Star Health Insurance
+46,42111.6647,0,1,0,0,ICICI Lambord Health Insurance
+53,11729.6795,2,0,0,0,ICICI Lambord Health Insurance
+49,24106.91255,3,1,0,0,Religare Health Insurance
+20,1875.344,0,0,3,0,Religare Health Insurance
+48,40974.1649,0,1,2,0,Religare Health Insurance
+25,15817.9857,0,1,1,1,Religare Health Insurance
+25,18218.16139,1,0,2,0,Religare Health Insurance
+57,10965.446,0,0,3,1,ICICI Lambord Health Insurance
+37,46113.511,2,1,3,0,ICICI Lambord Health Insurance
+38,7151.092,3,0,3,0,ICICI Lambord Health Insurance
+55,12269.68865,2,0,1,0,HDFC ERGO Health Insurance
+36,5458.04645,0,0,0,0,HDFC ERGO Health Insurance
+51,8782.469,0,0,3,1,HDFC ERGO Health Insurance
+40,6600.361,2,0,3,1,HDFC ERGO Health Insurance
+18,1141.4451,0,0,2,1,HDFC ERGO Health Insurance
+57,11576.13,1,0,3,1,HDFC ERGO Health Insurance
+61,13129.60345,0,0,0,1,HDFC ERGO Health Insurance
+25,4391.652,3,0,3,0,New India Health Insurance
+50,8457.818,0,0,3,1,New India Health Insurance
+26,3392.3652,1,0,2,0,New India Health Insurance
+42,5966.8874,0,0,2,1,New India Health Insurance
+43,6849.026,1,0,3,1,New India Health Insurance
+44,8891.1395,3,0,0,1,Star Health Insurance
+23,2690.1138,0,0,1,0,Star Health Insurance
+49,26140.3603,1,0,3,0,Star Health Insurance
+33,6653.7886,5,0,2,1,Star Health Insurance
+41,6282.235,1,0,3,1,ICICI Lambord Health Insurance
+37,6311.952,2,0,3,0,ICICI Lambord Health Insurance
+22,3443.064,3,0,3,1,ICICI Lambord Health Insurance
+23,2789.0574,1,0,1,1,Religare Health Insurance
+21,2585.85065,0,0,0,0,Religare Health Insurance
+51,46255.1125,3,1,0,0,Religare Health Insurance
+25,4877.98105,4,0,1,1,Religare Health Insurance
+32,19719.6947,1,1,2,1,Religare Health Insurance
+57,27218.43725,0,1,0,1,ICICI Lambord Health Insurance
+36,5272.1758,0,0,1,0,HDFC ERGO Health Insurance
+22,1682.597,0,0,3,1,HDFC ERGO Health Insurance
+57,11945.1327,1,0,1,1,HDFC ERGO Health Insurance
+64,29330.98315,0,1,1,0,HDFC ERGO Health Insurance
+36,7243.8136,4,0,2,0,HDFC ERGO Health Insurance
+54,10422.91665,0,0,0,1,HDFC ERGO Health Insurance
+47,44202.6536,2,1,2,1,HDFC ERGO Health Insurance
+62,13555.0049,0,0,0,1,New India Health Insurance
+61,13063.883,0,0,3,0,New India Health Insurance
+43,19798.05455,2,1,0,0,New India Health Insurance
+19,2221.56445,1,0,1,1,New India Health Insurance
+18,1634.5734,0,0,2,0,New India Health Insurance
+19,2117.33885,0,0,1,0,ICICI Lambord Health Insurance
+49,8688.85885,0,0,0,1,ICICI Lambord Health Insurance
+60,48673.5588,0,1,2,1,ICICI Lambord Health Insurance
+26,4661.28635,3,0,0,1,ICICI Lambord Health Insurance
+49,8125.7845,0,0,2,1,ICICI Lambord Health Insurance
+60,12644.589,0,0,3,0,HDFC ERGO Health Insurance
+26,4564.19145,2,0,0,0,HDFC ERGO Health Insurance
+27,4846.92015,3,0,0,1,HDFC ERGO Health Insurance
+44,7633.7206,1,0,2,0,HDFC ERGO Health Insurance
+63,15170.069,3,0,3,1,HDFC ERGO Health Insurance
+32,17496.306,0,1,3,0,HDFC ERGO Health Insurance
+22,2639.0429,1,0,1,1,HDFC ERGO Health Insurance
+18,33732.6867,0,1,0,1,ICICI Lambord Health Insurance
+59,14382.70905,3,0,1,0,ICICI Lambord Health Insurance
+44,7626.993,1,0,3,0,Religare Health Insurance
+33,5257.50795,2,0,1,1,Religare Health Insurance
+24,2473.3341,0,0,2,0,Religare Health Insurance
+43,21774.32215,0,1,1,0,Religare Health Insurance
+45,35069.37452,0,1,0,1,Religare Health Insurance
+61,13041.921,0,0,3,0,ICICI Lambord Health Insurance
+35,5245.2269,1,0,2,0,HDFC ERGO Health Insurance
+62,13451.122,0,0,3,0,HDFC ERGO Health Insurance
+62,13462.52,0,0,3,0,HDFC ERGO Health Insurance
+38,5488.262,1,0,3,1,HDFC ERGO Health Insurance
+34,4320.41085,0,0,1,1,HDFC ERGO Health Insurance
+43,6250.435,0,0,3,1,HDFC ERGO Health Insurance
+50,25333.33284,2,0,0,1,HDFC ERGO Health Insurance
+19,2913.569,2,0,3,0,ICICI Lambord Health Insurance
+57,12032.326,1,0,3,0,ICICI Lambord Health Insurance
+62,13470.8044,0,0,2,0,ICICI Lambord Health Insurance
+41,6289.7549,1,0,2,1,ICICI Lambord Health Insurance
+26,2927.0647,1,0,2,1,ICICI Lambord Health Insurance
+39,6238.298,1,0,3,0,ICICI Lambord Health Insurance
+46,10096.97,5,0,3,1,ICICI Lambord Health Insurance
+45,7348.142,0,0,3,0,Star Health Insurance
+32,4673.3922,2,0,2,1,Star Health Insurance
+59,12233.828,0,0,3,0,Star Health Insurance
+44,32108.66282,2,0,0,1,ICICI Lambord Health Insurance
+39,8965.79575,5,0,1,0,ICICI Lambord Health Insurance
+18,2304.0022,2,0,2,1,Religare Health Insurance
+53,9487.6442,0,0,2,1,Religare Health Insurance
+18,1121.8739,0,0,2,1,Religare Health Insurance
+50,9549.5651,1,0,2,0,Religare Health Insurance
+18,2217.46915,0,0,0,0,Religare Health Insurance
+19,1628.4709,0,0,1,1,New India Health Insurance
+62,12982.8747,0,0,2,1,New India Health Insurance
+56,11674.13,1,0,3,0,New India Health Insurance
+42,7160.094,2,0,3,1,New India Health Insurance
+37,39047.285,1,1,0,1,New India Health Insurance
+42,6358.77645,0,0,1,1,ICICI Lambord Health Insurance
+25,19933.458,3,1,3,1,ICICI Lambord Health Insurance
+57,11534.87265,0,0,0,1,ICICI Lambord Health Insurance
+51,47462.894,2,1,2,1,ICICI Lambord Health Insurance
+30,4527.18295,1,0,1,0,ICICI Lambord Health Insurance
+44,38998.546,2,1,3,1,ICICI Lambord Health Insurance
+34,20009.63365,1,1,1,1,ICICI Lambord Health Insurance
+31,3875.7341,1,0,2,1,Star Health Insurance
+54,41999.52,1,1,2,1,Star Health Insurance
+24,12609.88702,1,0,1,1,Star Health Insurance
+43,41034.2214,1,1,0,1,Star Health Insurance
+48,28468.91901,1,0,1,1,Religare Health Insurance
+19,2730.10785,1,0,1,0,Religare Health Insurance
+29,3353.284,0,0,3,0,Religare Health Insurance
+63,14474.675,1,0,2,0,Religare Health Insurance
+46,9500.57305,3,0,0,1,Religare Health Insurance
+52,26467.09737,2,0,1,1,HDFC ERGO Health Insurance
+35,4746.344,1,0,3,1,HDFC ERGO Health Insurance
+51,23967.38305,2,1,1,1,HDFC ERGO Health Insurance
+44,7518.02535,1,0,1,1,HDFC ERGO Health Insurance
+21,3279.86855,2,0,0,1,HDFC ERGO Health Insurance
+39,8596.8278,5,0,2,0,HDFC ERGO Health Insurance
+50,10702.6424,3,0,2,0,HDFC ERGO Health Insurance
+34,4992.3764,0,0,0,0,Religare Health Insurance
+22,2527.81865,0,0,1,0,Religare Health Insurance
+19,1759.338,0,0,3,0,Religare Health Insurance
+26,2322.6218,0,0,2,1,Religare Health Insurance
+29,16138.76205,0,1,0,1,Religare Health Insurance
+48,7804.1605,0,0,2,1,Religare Health Insurance
+26,2902.9065,1,0,2,1,New India Health Insurance
+45,9704.66805,3,0,0,0,New India Health Insurance
+36,4889.0368,0,0,2,0,New India Health Insurance
+54,25517.11363,1,0,0,1,New India Health Insurance
+34,4500.33925,0,0,0,1,New India Health Insurance
+31,19199.944,3,1,3,1,ICICI Lambord Health Insurance
+27,16796.41194,1,0,0,0,ICICI Lambord Health Insurance
+20,4915.05985,5,0,0,1,ICICI Lambord Health Insurance
+44,7624.63,1,0,3,0,ICICI Lambord Health Insurance
+43,8410.04685,3,0,1,1,Star Health Insurance
+45,28340.18885,1,0,1,0,Star Health Insurance
+34,4518.82625,0,0,0,1,Star Health Insurance
+24,14571.8908,0,1,0,0,Star Health Insurance
+26,3378.91,1,0,3,0,ICICI Lambord Health Insurance
+38,7144.86265,2,0,0,0,ICICI Lambord Health Insurance
+50,10118.424,2,0,3,0,ICICI Lambord Health Insurance
+38,5484.4673,1,0,2,1,ICICI Lambord Health Insurance
+27,16420.49455,3,1,1,0,ICICI Lambord Health Insurance
+39,7986.47525,3,0,0,0,ICICI Lambord Health Insurance
+39,7418.522,3,0,3,0,Star Health Insurance
+63,13887.9685,0,0,2,0,Star Health Insurance
+33,6551.7501,3,0,0,0,Star Health Insurance
+36,5267.81815,0,0,1,0,Religare Health Insurance
+30,17361.7661,2,1,1,1,Religare Health Insurance
+24,34472.841,0,1,3,1,Religare Health Insurance
+24,1972.95,0,0,3,1,Religare Health Insurance
+48,21232.18226,0,0,3,1,Religare Health Insurance
+47,8627.5411,1,0,0,1,Religare Health Insurance
+29,4433.3877,2,0,1,1,Religare Health Insurance
+28,4438.2634,2,0,0,1,HDFC ERGO Health Insurance
+47,24915.22085,3,1,1,1,HDFC ERGO Health Insurance
+25,23241.47453,2,0,0,1,HDFC ERGO Health Insurance
+51,9957.7216,1,0,0,1,HDFC ERGO Health Insurance
+48,8269.044,0,0,3,0,HDFC ERGO Health Insurance
+43,18767.7377,2,1,2,1,HDFC ERGO Health Insurance
+61,36580.28216,4,0,2,0,HDFC ERGO Health Insurance
+48,8765.249,1,0,1,1,ICICI Lambord Health Insurance
+38,5383.536,0,0,3,0,ICICI Lambord Health Insurance
+59,12124.9924,0,0,1,1,Star Health Insurance
+19,2709.24395,1,0,1,0,Star Health Insurance
+26,3987.926,2,0,3,0,Star Health Insurance
+54,12495.29085,3,0,1,0,Star Health Insurance
+21,26018.95052,2,0,1,0,Religare Health Insurance
+51,8798.593,0,0,3,1,Religare Health Insurance
+22,35595.5898,3,1,2,0,Religare Health Insurance
+47,42211.1382,1,1,2,1,Religare Health Insurance
+18,1711.0268,1,0,2,1,Religare Health Insurance
+47,8569.8618,1,0,2,0,Religare Health Insurance
+21,2020.177,0,0,3,0,Religare Health Insurance
+19,16450.8947,1,1,1,1,Star Health Insurance
+23,21595.38229,0,0,1,1,Star Health Insurance
+54,9850.432,0,0,3,1,Star Health Insurance
+37,6877.9801,2,0,0,0,Star Health Insurance
+46,21677.28345,1,1,1,0,ICICI Lambord Health Insurance
+55,44423.803,0,1,2,0,ICICI Lambord Health Insurance
+30,4137.5227,0,0,0,0,ICICI Lambord Health Insurance
+18,13747.87235,0,1,0,1,ICICI Lambord Health Insurance
+61,12950.0712,0,0,1,1,ICICI Lambord Health Insurance
+54,12094.478,3,0,3,0,ICICI Lambord Health Insurance
+22,37484.4493,2,1,2,1,HDFC ERGO Health Insurance
+45,39725.51805,1,1,1,0,HDFC ERGO Health Insurance
+22,2250.8352,0,0,0,1,HDFC ERGO Health Insurance
+19,22493.65964,2,0,1,1,HDFC ERGO Health Insurance
+35,20234.85475,0,1,1,0,HDFC ERGO Health Insurance
+18,1704.70015,0,0,0,1,HDFC ERGO Health Insurance
+20,33475.81715,0,1,0,1,HDFC ERGO Health Insurance
+28,3161.454,0,0,3,0,ICICI Lambord Health Insurance
+55,11394.06555,1,0,0,1,ICICI Lambord Health Insurance
+43,21880.82,2,1,1,0,ICICI Lambord Health Insurance
+43,7325.0482,0,0,0,0,Star Health Insurance
+22,44501.3982,1,1,2,1,Star Health Insurance
+25,3594.17085,1,0,1,0,Star Health Insurance
+49,39727.614,0,1,3,1,Star Health Insurance
+44,8023.13545,1,0,1,0,Religare Health Insurance
+64,14394.5579,0,0,0,1,Religare Health Insurance
+49,9288.0267,1,0,0,1,Religare Health Insurance
+47,25309.489,3,1,3,1,Religare Health Insurance
+27,3353.4703,0,0,1,0,New India Health Insurance
+55,10594.50155,0,0,1,1,New India Health Insurance
+48,8277.523,0,0,3,0,New India Health Insurance
+45,17929.30337,0,0,2,0,New India Health Insurance
+24,2480.9791,0,0,2,0,New India Health Insurance
+32,4462.7218,1,0,1,1,ICICI Lambord Health Insurance
+24,1981.5819,0,0,2,1,Star Health Insurance
+57,11554.2236,1,0,2,1,Star Health Insurance
+59,48970.2476,1,1,2,1,Star Health Insurance
+36,6548.19505,3,0,1,1,Star Health Insurance
+29,5708.867,4,0,3,0,ICICI Lambord Health Insurance
+42,7045.499,1,0,3,0,ICICI Lambord Health Insurance
+48,8978.1851,2,0,2,1,ICICI Lambord Health Insurance
+39,5757.41345,0,0,0,1,Religare Health Insurance
+63,14349.8544,1,0,1,1,Religare Health Insurance
+54,10928.849,1,0,2,0,Religare Health Insurance
+37,39871.7043,1,1,2,1,Religare Health Insurance
+63,13974.45555,0,0,0,1,Religare Health Insurance
+21,1909.52745,0,0,1,1,Religare Health Insurance
+54,12096.6512,2,0,0,0,Religare Health Insurance
+60,13204.28565,0,0,0,0,Religare Health Insurance
+32,4562.8421,1,0,2,0,ICICI Lambord Health Insurance
+47,8551.347,1,0,3,0,Star Health Insurance
+21,2102.2647,0,0,0,1,Star Health Insurance
+28,34672.1472,0,1,2,1,Star Health Insurance
+63,15161.5344,3,0,2,1,Star Health Insurance
+18,11884.04858,2,0,2,1,ICICI Lambord Health Insurance
+32,4454.40265,1,0,1,1,ICICI Lambord Health Insurance
+38,5855.9025,1,0,1,1,ICICI Lambord Health Insurance
+32,4076.497,1,0,3,1,Religare Health Insurance
+62,15019.76005,2,0,1,0,Religare Health Insurance
+39,19023.26,5,1,3,0,Religare Health Insurance
+55,10796.35025,0,0,0,1,Religare Health Insurance
+57,11353.2276,0,0,1,1,Religare Health Insurance
+52,9748.9106,1,0,2,1,Religare Health Insurance
+56,10577.087,0,0,3,1,Religare Health Insurance
+47,41676.0811,0,1,2,1,Religare Health Insurance
+55,11286.5387,0,0,0,0,ICICI Lambord Health Insurance
+23,3591.48,3,0,3,1,ICICI Lambord Health Insurance
+22,33907.548,0,1,1,0,HDFC ERGO Health Insurance
+50,11299.343,4,0,3,0,HDFC ERGO Health Insurance
+18,4561.1885,4,0,0,0,HDFC ERGO Health Insurance
+51,44641.1974,2,1,0,0,HDFC ERGO Health Insurance
+22,1674.6323,0,0,2,1,HDFC ERGO Health Insurance
+52,23045.56616,0,0,0,0,HDFC ERGO Health Insurance
+25,3227.1211,1,0,2,0,HDFC ERGO Health Insurance
+33,16776.30405,2,1,0,0,ICICI Lambord Health Insurance
+53,11253.421,3,0,3,1,ICICI Lambord Health Insurance
+29,3471.4096,1,0,2,1,ICICI Lambord Health Insurance
+58,11363.2832,0,0,2,1,ICICI Lambord Health Insurance
+37,20420.60465,0,0,3,1,ICICI Lambord Health Insurance
+54,10338.9316,0,0,2,0,ICICI Lambord Health Insurance
+49,8988.15875,0,0,1,0,Star Health Insurance
+50,10493.9458,2,0,1,0,Star Health Insurance
+26,2904.088,1,0,3,1,Star Health Insurance
+45,8605.3615,3,0,2,1,Star Health Insurance
+54,11512.405,1,0,0,0,ICICI Lambord Health Insurance
+38,41949.2441,3,1,2,1,Religare Health Insurance
+48,24180.9335,3,1,2,0,Religare Health Insurance
+28,5312.16985,3,0,1,0,Religare Health Insurance
+23,2396.0959,0,0,0,1,Religare Health Insurance
+55,10807.4863,1,0,2,1,Religare Health Insurance
+41,9222.4026,5,0,0,1,Religare Health Insurance
+25,36124.5737,2,1,2,1,Religare Health Insurance
+33,38282.7495,1,1,2,1,Religare Health Insurance
+30,5693.4305,3,0,1,0,HDFC ERGO Health Insurance
+23,34166.273,0,1,3,0,HDFC ERGO Health Insurance
+46,8347.1643,2,0,2,1,HDFC ERGO Health Insurance
+53,46661.4424,3,1,1,0,HDFC ERGO Health Insurance
+27,18903.49141,1,0,0,0,HDFC ERGO Health Insurance
+23,40904.1995,1,1,0,0,New India Health Insurance
+63,14254.6082,0,0,1,0,New India Health Insurance
+55,10214.636,0,0,3,1,New India Health Insurance
+35,5836.5204,2,0,2,0,New India Health Insurance
+34,14358.36437,1,0,3,1,New India Health Insurance
+19,1728.897,0,0,3,0,ICICI Lambord Health Insurance
+39,8582.3023,5,0,2,0,Star Health Insurance
+27,3693.428,2,0,3,1,Star Health Insurance
+57,20709.02034,0,0,0,1,Star Health Insurance
+52,9991.03765,0,0,1,0,Star Health Insurance
+28,19673.33573,0,0,1,1,Religare Health Insurance
+50,11085.5868,3,0,1,0,Religare Health Insurance
+44,7623.518,1,0,3,0,Religare Health Insurance
+26,3176.2877,0,0,1,0,Religare Health Insurance
+33,3704.3545,0,0,2,1,Religare Health Insurance
+19,36898.73308,0,1,1,0,Religare Health Insurance
+50,9048.0273,1,0,2,1,Religare Health Insurance
+41,7954.517,3,0,3,0,Religare Health Insurance
+52,27117.99378,0,0,2,0,HDFC ERGO Health Insurance
+39,6338.0756,2,0,2,1,HDFC ERGO Health Insurance
+50,9630.397,2,0,3,1,HDFC ERGO Health Insurance
+52,11289.10925,3,0,1,1,HDFC ERGO Health Insurance
+60,52590.82939,0,1,3,1,HDFC ERGO Health Insurance
+20,2261.5688,0,0,1,0,HDFC ERGO Health Insurance
+55,10791.96,1,0,3,1,ICICI Lambord Health Insurance
+42,5979.731,0,0,3,1,ICICI Lambord Health Insurance
+18,2203.73595,0,0,0,0,ICICI Lambord Health Insurance
+58,12235.8392,0,0,1,0,Star Health Insurance
+43,40941.2854,3,1,2,0,Star Health Insurance
+35,5630.45785,1,0,1,0,Star Health Insurance
+48,11015.1747,4,0,1,0,Star Health Insurance
+36,7228.21565,3,0,0,0,Religare Health Insurance
+19,39722.7462,0,1,2,1,Religare Health Insurance
+23,14426.07385,2,0,1,0,Religare Health Insurance
+20,2459.7201,0,0,0,0,Religare Health Insurance
+32,3989.841,0,0,3,0,Religare Health Insurance
+43,7727.2532,1,0,1,0,HDFC ERGO Health Insurance
+34,5124.1887,2,0,2,1,HDFC ERGO Health Insurance
+30,18963.17192,1,0,2,1,HDFC ERGO Health Insurance
+18,2200.83085,0,0,0,0,HDFC ERGO Health Insurance
+41,7153.5539,1,0,1,0,HDFC ERGO Health Insurance
+35,5227.98875,0,0,0,0,HDFC ERGO Health Insurance
+57,10982.5013,0,0,2,1,HDFC ERGO Health Insurance
+29,4529.477,2,0,3,0,ICICI Lambord Health Insurance
+32,4670.64,2,0,3,1,ICICI Lambord Health Insurance
+37,6112.35295,1,0,1,0,New India Health Insurance
+18,17178.6824,1,1,0,1,New India Health Insurance
+43,22478.6,2,1,3,0,New India Health Insurance
+56,11093.6229,0,0,2,0,New India Health Insurance
+38,6457.8434,2,0,1,1,New India Health Insurance
+29,4433.9159,2,0,1,1,ICICI Lambord Health Insurance
+22,2154.361,0,0,3,0,ICICI Lambord Health Insurance
+52,23887.6627,1,1,1,0,Star Health Insurance
+40,6496.886,1,0,3,0,Star Health Insurance
+23,2899.48935,0,0,0,0,Star Health Insurance
+31,19350.3689,0,1,2,1,Star Health Insurance
+42,7650.77375,1,0,0,0,Religare Health Insurance
+24,2850.68375,0,0,1,0,Religare Health Insurance
+25,2632.992,0,0,3,0,Religare Health Insurance
+48,9447.3824,1,0,0,0,Religare Health Insurance
+23,18328.2381,1,1,2,0,Religare Health Insurance
+45,8603.8234,2,0,0,1,New India Health Insurance
+20,37465.34375,3,1,1,1,New India Health Insurance
+62,13844.7972,0,0,1,0,New India Health Insurance
+43,21771.3423,1,1,0,0,New India Health Insurance
+23,13126.67745,0,0,3,0,New India Health Insurance
+31,5327.40025,2,0,1,0,ICICI Lambord Health Insurance
+41,13725.47184,1,0,0,0,ICICI Lambord Health Insurance
+58,13019.16105,1,0,0,0,ICICI Lambord Health Insurance
+48,8671.19125,0,0,1,0,ICICI Lambord Health Insurance
+31,4134.08245,0,0,1,0,ICICI Lambord Health Insurance
+19,18838.70366,3,0,1,0,ICICI Lambord Health Insurance
+19,33307.5508,0,1,1,0,HDFC ERGO Health Insurance
+41,5699.8375,0,0,2,1,HDFC ERGO Health Insurance
+40,6393.60345,1,0,1,1,HDFC ERGO Health Insurance
+31,4934.705,2,0,3,0,HDFC ERGO Health Insurance
+37,6198.7518,2,0,1,1,HDFC ERGO Health Insurance
+46,8733.22925,2,0,1,1,HDFC ERGO Health Insurance
+22,2055.3249,0,0,1,1,HDFC ERGO Health Insurance
+51,9964.06,1,0,0,1,Religare Health Insurance
+18,18223.4512,3,1,2,0,Religare Health Insurance
+35,5116.5004,1,0,1,1,Religare Health Insurance
+59,36910.60803,2,0,3,0,Religare Health Insurance
+36,38415.474,2,1,3,1,Religare Health Insurance
+37,20296.86345,1,1,0,0,Star Health Insurance
+59,12347.172,1,0,3,1,Star Health Insurance
+36,5373.36425,1,0,1,1,Star Health Insurance
+39,23563.01618,2,0,2,1,Star Health Insurance
+18,1702.4553,0,0,0,1,ICICI Lambord Health Insurance
+52,10806.839,2,0,3,0,ICICI Lambord Health Insurance
+27,3956.07145,1,0,1,0,ICICI Lambord Health Insurance
+18,12890.05765,0,0,0,1,ICICI Lambord Health Insurance
+40,5415.6612,0,0,2,1,ICICI Lambord Health Insurance
+29,4058.1161,2,0,2,1,HDFC ERGO Health Insurance
+46,41661.602,1,1,3,0,HDFC ERGO Health Insurance
+38,7537.1639,3,0,1,0,HDFC ERGO Health Insurance
+30,4718.20355,1,0,0,0,HDFC ERGO Health Insurance
+40,6593.5083,2,0,2,1,HDFC ERGO Health Insurance
+50,8442.667,0,0,2,1,HDFC ERGO Health Insurance
+20,26125.67477,0,1,2,0,HDFC ERGO Health Insurance
+41,6858.4796,1,0,0,1,Religare Health Insurance
+33,4795.6568,1,0,2,0,Religare Health Insurance
+38,6640.54485,2,0,0,1,Religare Health Insurance
+42,7162.0122,2,0,2,1,Religare Health Insurance
+56,10594.2257,0,0,2,1,Religare Health Insurance
+58,11938.25595,0,0,0,1,Star Health Insurance
+52,60021.39897,3,1,1,1,Star Health Insurance
+20,20167.33603,0,1,3,0,Star Health Insurance
+54,12479.70895,3,0,1,0,ICICI Lambord Health Insurance
+58,11345.519,0,0,3,1,ICICI Lambord Health Insurance
+45,8515.7587,2,0,2,0,ICICI Lambord Health Insurance
+26,2699.56835,0,0,1,1,ICICI Lambord Health Insurance
+63,14449.8544,0,0,0,0,ICICI Lambord Health Insurance
+58,12224.35085,0,0,1,0,ICICI Lambord Health Insurance
+37,6985.50695,3,0,0,1,HDFC ERGO Health Insurance
+25,3238.4357,1,0,2,0,HDFC ERGO Health Insurance
+52,47269.854,2,1,2,1,HDFC ERGO Health Insurance
+64,49577.6624,2,1,2,1,HDFC ERGO Health Insurance
+22,4296.2712,3,0,1,0,HDFC ERGO Health Insurance
+28,3171.6149,0,0,2,0,HDFC ERGO Health Insurance
+18,1135.9407,0,0,2,1,HDFC ERGO Health Insurance
+28,5615.369,5,0,3,1,ICICI Lambord Health Insurance
+45,9101.798,3,0,3,0,Star Health Insurance
+33,6059.173,4,0,3,1,Star Health Insurance
+18,1633.9618,0,0,2,0,Star Health Insurance
+32,37607.5277,1,1,0,1,Star Health Insurance
+24,18648.4217,0,1,0,1,ICICI Lambord Health Insurance
+19,1241.565,0,0,3,1,ICICI Lambord Health Insurance
+20,16232.847,0,1,3,1,ICICI Lambord Health Insurance
+40,15828.82173,4,0,3,0,ICICI Lambord Health Insurance
+34,4415.1588,0,0,2,0,Religare Health Insurance
+42,6474.013,0,0,3,0,Religare Health Insurance
+51,11436.73815,3,0,1,0,Religare Health Insurance
+54,11305.93455,1,0,1,0,Religare Health Insurance
+55,30063.58055,3,0,1,1,Religare Health Insurance
+52,10197.7722,0,0,0,0,ICICI Lambord Health Insurance
+32,4544.2348,0,0,0,0,ICICI Lambord Health Insurance
+28,3277.161,1,0,3,1,ICICI Lambord Health Insurance
+41,6770.1925,1,0,2,0,ICICI Lambord Health Insurance
+43,7337.748,1,0,3,0,HDFC ERGO Health Insurance
+49,10370.91255,2,0,0,0,HDFC ERGO Health Insurance
+64,26926.5144,0,1,2,1,HDFC ERGO Health Insurance
+55,10704.47,0,0,3,0,HDFC ERGO Health Insurance
+24,34254.05335,0,1,0,1,HDFC ERGO Health Insurance
+20,1880.487,0,0,3,0,HDFC ERGO Health Insurance
+45,8615.3,3,0,3,1,HDFC ERGO Health Insurance
+26,3292.52985,1,0,1,1,Star Health Insurance
+25,3021.80915,0,0,1,0,Star Health Insurance
+43,14478.33015,5,0,2,1,Star Health Insurance
+35,4747.0529,1,0,2,1,Star Health Insurance
+26,17043.3414,0,1,2,1,Religare Health Insurance
+57,10959.33,0,0,3,1,Religare Health Insurance
+22,2741.948,0,0,0,0,Religare Health Insurance
+32,4357.04365,0,0,1,0,Religare Health Insurance
+39,22462.04375,1,1,0,1,Religare Health Insurance
+25,4189.1131,2,0,1,0,New India Health Insurance
+48,8283.6807,0,0,2,0,New India Health Insurance
+47,24535.69855,2,1,1,0,New India Health Insurance
+18,14283.4594,0,1,0,0,New India Health Insurance
+18,1720.3537,1,0,2,1,New India Health Insurance
+61,47403.88,1,1,3,1,ICICI Lambord Health Insurance
+47,8534.6718,0,0,0,0,ICICI Lambord Health Insurance
+28,3732.6251,0,0,0,0,ICICI Lambord Health Insurance
+36,5472.449,1,0,3,0,HDFC ERGO Health Insurance
+20,38344.566,2,1,3,1,HDFC ERGO Health Insurance
+44,7147.4728,1,0,2,1,HDFC ERGO Health Insurance
+38,7133.9025,2,0,0,0,HDFC ERGO Health Insurance
+19,34828.654,0,1,3,1,HDFC ERGO Health Insurance
+21,1515.3449,0,0,2,1,HDFC ERGO Health Insurance
+46,9301.89355,3,0,1,1,HDFC ERGO Health Insurance
+58,11931.12525,0,0,0,1,Star Health Insurance
+20,1964.78,1,0,3,1,Star Health Insurance
+18,1708.92575,0,0,0,1,Star Health Insurance
+28,4340.4409,2,0,2,0,Star Health Insurance
+33,5261.46945,2,0,1,1,ICICI Lambord Health Insurance
+19,2710.82855,1,0,1,0,ICICI Lambord Health Insurance
+45,62592.87309,0,1,2,1,Religare Health Insurance
+62,46718.16325,3,1,1,1,Religare Health Insurance
+25,3208.787,1,0,3,0,Religare Health Insurance
+43,37829.7242,0,1,3,1,Religare Health Insurance
+42,21259.37795,2,1,0,1,Religare Health Insurance
+24,2464.6188,0,0,2,0,Religare Health Insurance
+29,16115.3045,0,1,0,0,Religare Health Insurance
+32,21472.4788,4,1,1,1,Religare Health Insurance
+25,33900.653,0,1,3,0,Religare Health Insurance
+41,6875.961,2,0,3,1,Religare Health Insurance
+42,6940.90985,1,0,1,1,ICICI Lambord Health Insurance
+33,4571.41305,0,0,1,0,HDFC ERGO Health Insurance
+34,4536.259,1,0,3,1,HDFC ERGO Health Insurance
+19,36397.576,2,1,3,0,HDFC ERGO Health Insurance
+30,18765.87545,3,1,1,0,HDFC ERGO Health Insurance
+18,11272.33139,1,0,0,1,HDFC ERGO Health Insurance
+19,1731.677,0,0,3,0,HDFC ERGO Health Insurance
+18,1163.4627,0,0,2,1,HDFC ERGO Health Insurance
+35,19496.71917,4,0,0,1,New India Health Insurance
+39,7201.70085,2,0,1,0,New India Health Insurance
+31,5425.02335,3,0,1,1,New India Health Insurance
+62,28101.33305,0,1,0,1,New India Health Insurance
+62,12981.3457,0,0,2,1,New India Health Insurance
+42,43896.3763,2,1,2,0,New India Health Insurance
+31,4239.89265,1,0,1,1,New India Health Insurance
+61,13143.33665,0,0,0,1,Star Health Insurance
+42,7050.0213,0,0,0,0,Star Health Insurance
+51,9377.9047,1,0,2,1,Star Health Insurance
+23,22395.74424,2,0,0,0,Star Health Insurance
+52,10325.206,2,0,3,1,Star Health Insurance
+57,12629.1656,2,0,2,0,Star Health Insurance
+23,10795.93733,0,0,3,0,Star Health Insurance
+52,11411.685,3,0,3,0,Star Health Insurance
+50,10600.5483,3,0,1,1,Star Health Insurance
+18,2205.9808,0,0,0,0,Star Health Insurance
+18,1629.8335,0,0,2,0,HDFC ERGO Health Insurance
+21,2007.945,0,0,3,0,HDFC ERGO Health Insurance
+61,29141.3603,0,1,1,0,HDFC ERGO Health Insurance
